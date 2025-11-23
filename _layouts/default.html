@@ -5,7 +5,7 @@
 			{% assign pageclasstype = page.collection %}
 			{% seo %}
 			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+			<link rel="stylesheet" type="text/css" href="/assets/css/main.css" | relative_url }}">
 			{% if site.google_analytics and jekyll.environment == 'production' %}
 			{% include analytics.html %}
 			{% endif %}
