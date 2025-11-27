@@ -6,7 +6,7 @@ activity-coordinator1: Anne Chen
 activity-coordinator2: Elton Barker
 activity-email: annotation@pelagios.org
 category: [semantic annotation]
-image: /assets/images/Actvity_annotation.jpg
+image: ../images/Actvity_annotation.jpg
 description: Pelagios supports the use of semantic annotations
 ---
 
