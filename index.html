@@ -4,16 +4,16 @@ title: Welcome to Pelagios Network
 
 ---
 <div class="blurb--home">
-	<p>The Pelagios Network is a community of researchers, scientists and curators using Linked Data methods and tools to investigate the past.</p>
+	<p>Pelagios Network is a community of researchers, scientists and curators using Linked Data methods and tools to investigate the past.</p>
 </div><!-- /.blurb -->
 
 <div class="blurb--home">
-  <a class="cta blurb" href="/about-us" >About Pelagios</a>
-  <a class="cta blurb" href="/contact-us" >Become a Partner</a>
-  <a class="cta blurb" href="/partners" >Discover Partners</a>
-  <a class="cta blurb" href="/linked-data" >What is Linked Open Data?</a>
-  <a class="cta blurb" href="/methods-tools" >Our Methods and Tools</a>
-  <a class="cta blurb" href="/events" >Events</a>
+  <a class="cta blurb" href="{{ '/about-us' | relative_url }}">About Pelagios</a>
+  <a class="cta blurb" href="{{ '/contact-us' | relative_url }}">Become a Partner</a>
+  <a class="cta blurb" href="{{ '/partners' | relative_url }}">Discover Partners</a>
+  <a class="cta blurb" href="{{ '/linked-data' | relative_url }}">What is Linked Open Data?</a>
+  <a class="cta blurb" href="{{ '/methods-tools' | relative_url }}">Our Methods and Tools</a>
+  <a class="cta blurb" href="{{ '/events' | relative_url }}">Events</a>
 </div><!-- /.blurb -->
 
 
@@ -30,12 +30,15 @@ title: Welcome to Pelagios Network
 	<h2>The Pelagios Network is organised through different core Activities:</h2>
 	{% assign sorted_activities = site.activities | sort:'name' %}
  	{% for activity in sorted_activities %}
-	<div class="activity--teaser">
-		<a href={{ activity.url }}>
-			<img src="{{ activity.image }}" width="115px">
-    	<h3>{{ activity.title }}</h3>
-	  	<p>{{ activity.excerpt | strip_html }}</p>
-	  </a>
-	</div>
+	<div class="activities--teaser">
+  <a href="{{ activity.url | relative_url }}">
+    <img src="{{ activity.image | relative_url }}" alt="{{ activity.title }}">
+    <h2>{{ activity.title }}</h2>
+    <p>{{ activity.excerpt | strip_html }}</p>
+    {% if activity.activity-email %}
+      <p>{{ activity.activity-email | strip_html }}</p>
+    {% endif %}
+  </a>
+</div>
  	{% endfor %}
 </div>
