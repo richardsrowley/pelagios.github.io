@@ -1,10 +1,15 @@
 .home-hero { 
   background: $light-grey; 
+  padding: 2rem 0;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
   width: 100vw;
   clear: both;
+}
+
+.home-hero .constrained.flexy {
+  display: flex;
 }
 
 .home-intro {
