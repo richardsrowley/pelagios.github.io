@@ -120,16 +120,19 @@ body {
 .site-header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 1rem 0;
 }
 
 .site-nav ul {
   display: flex;
+  justify-content: space-between;
   list-style-type: none;
+  gap: 2rem;
 }
 
 .site-nav ul li {
-  margin-left: 1rem;
+
 }
 
 .site-nav a {
