@@ -119,11 +119,21 @@ body {
 
 .site-header {
   display: flex;
+  justify-content: space-between;
 }
 
 .site-nav ul {
   display: flex;
+  list-style-type: none;
 }
+
+.site-nav a {
+  font-size: 1.1rem;
+  text-decoration: none;
+}
+
+$logo-height: 65px;
+$logo-height-home: 90px;
 
 // Footer //
 
