@@ -113,9 +113,17 @@ body {
 
 
 
-// ------------------  Header //
+// ------------------ //
+// Header //
 
 
+.site-header {
+  display: flex;
+}
+
+.site-nav ul {
+  display: flex;
+}
 
 // Footer //
 
