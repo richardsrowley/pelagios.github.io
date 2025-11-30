@@ -18,7 +18,7 @@ body {
 }
 
 .constrained.container {
-  padding-top: 40px;
+  
 }
 
 .page--type-case-studies,
@@ -120,7 +120,7 @@ body {
 .site-header {
   display: flex;
   justify-content: space-between;
-  padding: 0 1rem 0 1rem;
+  padding: 1rem 0;
 }
 
 .site-nav ul {
@@ -139,6 +139,10 @@ body {
 
 $logo-height: 65px;
 $logo-height-home: 90px;
+
+img.logo {
+    width: 190px;
+}
 
 // Footer //
 
