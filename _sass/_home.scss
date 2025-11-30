@@ -1,5 +1,7 @@
 .home-hero { 
   background: $light-grey; 
+    background-image: url(/assets/images/mainimage.jpg);
+  background-size: cover;
   padding: 2rem 0;
   position: relative;
   left: 50%;
