@@ -132,9 +132,10 @@
 
 
 .video {
-  //margin: 0 auto;
-  max-width: 800px;
+
+  max-width: 300px;
   iframe {
-    
+    height:auto;
+    max-width: 300px;
     }
   }
