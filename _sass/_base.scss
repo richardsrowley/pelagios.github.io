@@ -1,18 +1,285 @@
 
+// Branding and visual design //
+
+$white: #ffffff;
+$black: #000000;
+$light-grey: #E7E7E7;
+
+$turquoise: #0797D5;
+$sea-green-1: #099B9B;
+$sea-green-2: #0097AB;
+$sea-green-3: #399D6D;
+
+$almost-black: #00131E;
+
+$blue--dark: #284a82;
+
+$header-height-home: 420px;
+$header-height: 85px;
+$content-max-width: 1040px;
+$content-column-width-large: 470px;
+$content-column-width: 200px;
+
+$main-image-width: 170px;
+
+$logo-height: 65px;
+$logo-height-home: 90px;
+
+$font-size-tiny: 12px;
+$font-size-small: 14px;
+$font-size-normal: 17px;
+$font-size-medium: 20px;
+$font-size-large: 23px;
+$font-size-x-large: 28px;
+
+
+
+@mixin interpolate($properties, $min-screen, $max-screen, $min-value, $max-value) {
+  & {
+    @each $property in $properties {
+      #{$property}: $min-value;
+    }
+
+    @media screen and (min-width: $min-screen) {
+      @each $property in $properties {
+        #{$property}: calc-interpolation($min-screen, $min-value, $max-screen, $max-value);
+      }
+    }
+
+    @media screen and (min-width: $max-screen) {
+      @each $property in $properties {
+        #{$property}: $max-value;
+      }
+    }
+  }
+}
+
+// Requires the calc-interpolation function which can also be used independently
+
+@function calc-interpolation($min-screen, $min-value, $max-screen, $max-value) {
+  $a: ($max-value - $min-value) / ($max-screen - $min-screen);
+  $b: $min-value - $a * $min-screen;
+
+  $sign: "+";
+  @if ($b < 0) {
+    $sign: "-";
+    $b: abs($b);
+  }
+  @return calc(#{$a*100}vw #{$sign} #{$b});
+} 
+
+// This is a partial.
+// It lies in <source>/_sass, just waiting to be imported.
+// It does not contain the YAML front matter and has no corresponding output file in the built site.
+/* ==========================================================
+   HK Grotesk — Regular
+   ========================================================== */
+@font-face {
+  font-family: 'hk_groteskregular';
+  src:
+    url('../fonts/hkgrotesk-regular-webfont.woff2') format('woff2'),
+    url('../fonts/hkgrotesk-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ==========================================================
+   HK Grotesk — Light
+   ========================================================== */
+@font-face {
+  font-family: 'hk_grotesklight';
+  src:
+    url('../fonts/hkgrotesk-light-webfont.woff2') format('woff2'),
+    url('../fonts/hkgrotesk-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ==========================================================
+   HK Grotesk — Semibold
+   ========================================================== */
+@font-face {
+  font-family: 'hk_grotesksemibold';
+  src:
+    url('../fonts/hkgrotesk-semibold-webfont.woff2') format('woff2'),
+    url('../fonts/hkgrotesk-semibold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ==========================================================
+   HK Grotesk — Medium
+   ========================================================== */
+@font-face {
+  font-family: 'hk_groteskmedium';
+  src:
+    url('../fonts/hkgrotesk-medium-webfont.woff2') format('woff2'),
+    url('../fonts/hkgrotesk-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ==========================================================
+   HK Grotesk — Bold
+   ========================================================== */
+@font-face {
+  font-family: 'hk_groteskbold';
+  src:
+    url('../fonts/hkgrotesk-bold-webfont.woff2') format('woff2'),
+    url('../fonts/hkgrotesk-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ==========================================================
+   Default body font
+   ========================================================== */
 
 
 body {
-  margin: 0;
-  overflow-x:hidden;
+  font-family: 'hk_groteskregular', arial, sans-serif;
 }
 
-.constrained {
-  width: 90%;
-  max-width: $content-max-width;
-  margin-left: auto;
-  margin-right: auto;
-  position: relative;
+h1 {
+  color: $blue--dark;
+  font-size: $font-size-x-large;
+  @include interpolate(font-size, 400px, 1800px, 27px, 31px);
+}
+
+h2 {
+  font-size: $font-size-large;
+  font-weight: normal;
+  @include interpolate(font-size, 400px, 1800px, 22px, 26px);
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: $font-size-medium;
+  font-weight: normal;
+  @include interpolate(font-size, 400px, 1800px, 19px, 23px);
+}
+
+h4 {
+  font-size: $font-size-normal;
+  @include interpolate(font-size, 400px, 1800px, 15px, 19px);
+}
+
+p,
+.container li {
+  font-size: $font-size-normal;
+  line-height: 1.5;
+  @include interpolate(font-size, 400px, 1800px, 15px, 19px);
+}
+
+h3 + p {
+  margin-top: -12px;
+}
+
+h4 + p {
+  margin-top: -12px;
+}
+
+a {
+  color: $black;
+  &:hover {
+    color: $turquoise;
+  }
+}
+
+hr {
+  border: 1px solid $turquoise;
+  margin: 40px 0;
+}
+
+.breadcrumb {
+  color: $turquoise;
+  font-size: $font-size-tiny;
+
+  a {
+    color: #444;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+p > img {
+  width: 180px;
+  float: right;
+  margin: 0 0 35px 25px;
 }
 
 
 
+
+
+
+
+
+
+
+
+
+
+// Common page elements //
+
+button {
+  display: inline-block;
+  outline: 0;
+  cursor: pointer;
+  border: none;
+  padding: 0 56px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 7px;
+  font-weight: 400;
+  font-size: 16px;
+  background: #572c8d;
+  color: #ffffff;
+  box-shadow: 0 4px 14px 0 rgb(0, 0, 0);
+  transition: background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+
+  :hover {
+    color: #d5c5c5;
+    box-shadow: 0 6px 20px rgb(93, 93, 93);
+  }
+}
+button a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.cta,
+.get-in-touch {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 4px 7px 6px;
+    text-decoration: none;
+    background: $turquoise;
+    color: $white;
+    font-size: $font-size-tiny;
+    &:hover {
+      background: $almost-black;
+    }
+}
+
+.get-in-touch {
+  font-size: 14px;
+}
+
+
+.link-about .cta, .activity--coordinators a {
+  background: $almost-black;
+  font-size: 16px;
+  margin-top: 30px;
+  padding: 10px 20px 11px;
+  &:hover {
+    background: $turquoise;
+    color: white;
+  }
+  @media (min-width : 1000px) {
+    font-size: 17px;
+  }
+}
