@@ -10,6 +10,7 @@
 
 .home-hero .constrained.flexy {
   display: flex;
+  justify-content: space-between;
 }
 
 .home-intro {
@@ -127,34 +128,12 @@
   }
 }
 
-#video-container {
-  display: block; // remove this line to show video!
-  background: #e7e7e7;
-  padding: 60px 0;
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 100vw;
-  clear: both;
-}
 
 .video {
-  margin: 0 auto;
+  //margin: 0 auto;
   max-width: 800px;
   iframe {
-    height: 225px;
-    margin: 0 5%;
-    width: 90%;
-  }
-  @media (min-width : 600px){
-    iframe {
-      height: 450px;
-    }
-  }
-  @media (min-width : 820px){
-    iframe {
-      margin: 0;
-      width: 100%;
+    
     }
   }
 }
