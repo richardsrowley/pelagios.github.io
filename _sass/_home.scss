@@ -3,8 +3,16 @@
 }
 
 .home-intro {
-  
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100vw;
+  clear: both;
 }
+
+.promo {}
+
+
 
 .blurb--home {
   max-width: 650px;
