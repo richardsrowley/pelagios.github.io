@@ -139,6 +139,7 @@ body {
 }
 .menu-item:hover a {
   color: $turquoise--light;
+  text-decoration: none;
 }
 .menu-item .sub-menu .menu-item a {
   color: $white;
