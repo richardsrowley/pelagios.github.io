@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What is Linked Open Data?
-permalink: /linked-data/
+title: Linked Open Data?
+permalink: /linked-open-data
 ---
 
 <p>
