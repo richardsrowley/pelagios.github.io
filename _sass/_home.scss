@@ -41,23 +41,23 @@
   justify-content: space-between;
   align-items: center;
   gap: 5rem;
+}
 
-  .link-list a {
-//    font-size: 1.1rem;
+.link-button::before {
+  content: "→ ";
+}
+
+.link-button a {
     text-decoration: underline;    
     clear: left;
     color: $blue--dark;
     float: left;
     margin-bottom: 10px;
-  }
+}
 
-  .link-list a::before {
-    content: "→ ";
-  }
-
-  .link-list a:hover {
+ .link-button a:hover {
     color: $turquoise;    
-  }
+}
 
 }
 
