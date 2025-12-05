@@ -156,8 +156,8 @@ body {
   animation-duration: 0.4s;
   animation-delay: 0.2s;
 }
-.sub-menu .menu-item:hover {
-  background: #F8B195;
+.sub-menu .menu-item:hover a {
+  color: $turquoise;
 }
 .sub-menu .menu-item a {
   padding: 0 0.75rem;
