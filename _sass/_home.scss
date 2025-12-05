@@ -20,19 +20,19 @@
     background-position: center;
     background-repeat: no-repeat;
 
-  h1 {
-    color: $turquoise;
-  }
   
-  h2, p {
+  h1, h2, p {
     color: $white;
   }
 
-  h1, p {
-    font-size: 1.2rem;
+  h1 {
+    //font-size: 1.2rem;
   }
   h2 {
     font-size: 1.9rem;
+  }
+  p {
+    font-size: 1.2rem;
   }
 }
 
