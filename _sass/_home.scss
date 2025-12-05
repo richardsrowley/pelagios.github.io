@@ -43,19 +43,22 @@
   gap: 5rem;
 
   .link-list a {
-    background-color: $blue--dark;
-    border-radius: 20px;
-    color: $white;
-    padding: 7px 10px;
-    font-size: 1.1rem;
+//    font-size: 1.1rem;
+    text-decoration: underline;    
     clear: left;
+    color: $blue--dark;
     float: left;
     margin-bottom: 10px;
   }
-}
 
-.link-list a:hover {
-  color: $turquoise;    
+  .link-list a::before {
+    content: "→ ";
+  }
+
+  .link-list a:hover {
+    color: $turquoise;    
+  }
+
 }
 
 @media (max-width: 900px) {
