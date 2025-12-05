@@ -4,6 +4,8 @@ title: Linked Open Data
 permalink: /linked-open-data
 ---
 
+
+
 <h2>What is Linked Open Data?</h2>
 
 <p>Linked Open Data (LOD) is a way of publishing information so that it can be connected, reused, and understood across different systems. Instead of keeping data locked inside a single database or project, LOD uses shared identifiers, vocabularies, and standards to make relationships explicit — for example, linking places, periods, people, and objects across collections.</p>
@@ -13,6 +15,8 @@ permalink: /linked-open-data
 <div class="video">
 		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mMR6JQ1M6qE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
+
+<hr />
 
 <h2>Why link your data?</h2>
 
@@ -28,33 +32,27 @@ permalink: /linked-open-data
 </ul>
 <p>Linking does not require large infrastructure or complex models. Even small, lightweight connections — a shared place reference, a common period definition — help bring different datasets into a wider conversation.<p>
 
-
-<p>
-A pair of AHRC funded animations for the Linking Islands of Data Project, led by Professor Daniel Pett and Professor
-Elton Barker (Open University) with the Pelagios Community, Getty Museum, Institute for the Study of the Ancient World,
-American Numismatics Society, Brown University, School of Advanced Study University of London.
-</p>
-
-<p>
-	The animation was made by Ed Tracy of Too Tall Productions and the voice over by Dr Hannah Platts of Royal Holloway
-	University of London.
-</p>
-<p>
-	Photogrammetry 3D models created by Daniel Pett, rendering of Fitzwilliam gallery by Ed Tracy, Digital Periegesis
-	mapping Pausanias application from University of Uppsala and Rainer Simon, numismatics from American Numismatics
-	Society/Nomisma. All 3D models can be found on Sketchfab and can be downloaded under CC-BY-NC license.
-</p>
+<div class="video">
+		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0m79yDb4AzE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 
 <hr />
 
-<div>
-<div class="video-wrapper">
-	<div class="video">
-		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mMR6JQ1M6qE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</div>
-	<div class="video">
-		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0m79yDb4AzE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		<a href="https://www.too-tall.com">These animations were made by Ed Tracy of Too Tall Productions</a>
-	</div>
-</div>
-</div>
+<h3>Find out more</h3>
+
+<p>On this site you can also find:</p>
+<ul>
+	<li><a href="{{ '/lod/tools-resources' | relative_url }}">Tools and resources</a>. Tools, such as Recogito and Peripleo, that are supported by the Pelagios community.</li>
+
+
+<hr />
+
+<h4>About these videos</h4>
+
+<p>
+These animations were funded by the AHRC for the 'Linking Islands of Data' project, led by Professor Daniel Pett and Professor Elton Barker (Open University) with the Pelagios Community, Getty Museum, Institute for the Study of the Ancient World, American Numismatics Society, Brown University, School of Advanced Study University of London.
+</p>
+
+<p>
+	The animations were made by Ed Tracy of <a href="https://www.too-tall.com">Too Tall Productions</a> and the voice over by Dr Hannah Platts of Royal Holloway, University of London. Photogrammetry 3D models created by Daniel Pett, rendering of Fitzwilliam gallery by Ed Tracy, Digital Periegesis mapping Pausanias application from University of Uppsala and Rainer Simon, numismatics from American Numismatics Society/Nomisma. All 3D models can be found on Sketchfab and can be downloaded under CC-BY-NC license.
+</p>
