@@ -27,8 +27,17 @@
   
 }
 
-.promo {}
+.home-promo {
+  padding: 4rem 0;
+}
 
+.home-promo + .home-promo {
+  padding: 0rem 0 4rem;
+}
+
+.image-section {
+
+}
 
 
 .blurb--home {
@@ -52,6 +61,12 @@
     position: relative;
   }
 }
+
+
+
+
+
+
 .cta--home {
   width: 220px;
   float: left;
