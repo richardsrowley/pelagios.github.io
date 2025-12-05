@@ -15,7 +15,7 @@
 
 
 .section-1 {
-  background-image: url(/assets/images/mainimage.jpg);
+  background-image: url(/../images/mainimage.jpg);
 }
 
 .home-section .constrained.flexy {
@@ -50,6 +50,26 @@
 
 .promo-2 {
   
+}
+
+.case-studies--home-wrapper {
+  background-image: url("../images/mainimage.jpg");
+  background-size: cover;
+  padding: 60px 0;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100vw;
+  clear: both;
+  .case-studies--home {
+    max-width: $content-max-width - 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 2.5%;
+    @media (max-width: 710px){
+      justify-content: space-around;
+    }
+  }
 }
 
 .blurb--home {
