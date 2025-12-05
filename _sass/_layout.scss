@@ -136,6 +136,7 @@ body {
   text-overflow: ellipsis;
   display: block;
   color: #FFF;
+  text-decoration: none;
 }
 .menu-item:hover a {
   color: $turquoise--light;
@@ -208,9 +209,6 @@ body {
   box-sizing: inherit;
 }
 
-a {
-  text-decoration: none;
-}
 
 @keyframes enter {
   from {

@@ -43,7 +43,10 @@ permalink: /linked-open-data
 <p>On this site you can also find:</p>
 <ul>
 	<li><a href="{{ '/lod/tools-resources' | relative_url }}">Tools and resources</a>. Tools, such as Recogito and Peripleo, that are supported by the Pelagios community.</li>
+	<li><a href="{{ '/lod/best-practice' | relative_url }}">Best practice</a> in linked open data.</li>
+	<li><a href="{{ '/lod/case-study' | relative_url }}">Case studies</a> of projects we have been involved with.</li>
 
+</ul>
 
 <hr />
 
