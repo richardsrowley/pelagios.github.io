@@ -46,12 +46,12 @@ title: Welcome to Pelagios Network
 
 <div class="home-promo promo-2">
 	<div class="promo-block text-section">
-		<h2>Shared standards and methods</h2>
-		<h3> We improve practices</h3>
-		<p>Pelagios promotes collaboration, FAIR and CARE principles, and lightweight approaches to data across the humanities and heritage sectors.</p>
+		<h2>Our community</h2>
+		<h3>Linking data, connecting people</h3>
+		<p>Working Groups meet every two months to share progress and align methods, tools, and projects.</p>
 		<p class="link-list">
-			<a href="">Why link your data?</a>
-			<a href="">Tools and resources</a>
+			<a href="">Working Groups</a>
+			<a href="">People and partners</a>
 		</p>
 	</div>
 
@@ -68,19 +68,4 @@ title: Welcome to Pelagios Network
 
 
 
-<div class="activities--home">
-	<h2>The Pelagios Network is organised through different core Activities:</h2>
-	{% assign sorted_activities = site.activities | sort:'name' %}
- 	{% for activity in sorted_activities %}
-	<div class="activities--teaser">
-  <a href="{{ activity.url | relative_url }}">
-    <img src="{{ activity.image | relative_url }}" alt="{{ activity.title }}">
-    <h2>{{ activity.title }}</h2>
-    <p>{{ activity.excerpt | strip_html }}</p>
-    {% if activity.activity-email %}
-      <p>{{ activity.activity-email | strip_html }}</p>
-    {% endif %}
-  </a>
-</div>
- 	{% endfor %}
-</div>
+

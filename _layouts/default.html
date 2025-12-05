@@ -20,12 +20,17 @@
 						</a>
 				
 						<nav class="site-nav" aria-label="Main">
-							<ul class="site-nav__list">
-								<li><a href="{{ '/' | relative_url }}">Home</a></li>
-								<li><a href="{{ '/about-us.html' | relative_url }}">About us</a></li>
-								<li><a href="{{ '/linked-open-data.html' | relative_url }}">Linked Open Data</a></li>
-								<li><a href="{{ '/contact-us/' | relative_url }}">Contact</a></li>
-							</ul>
+							<ol class="site-nav__list">
+								<li class="menu-item"><a href="{{ '/' | relative_url }}">Home</a></li>
+								<li class="menu-item">
+									<a href="{{ '/about-us.html' | relative_url }}">About us</a>
+									<ol class="dropdown">
+										<li class="menu-item"><a href="{{ '/' | relative_url }}">Home</a></li>
+									</ol>
+								</li>
+								<li class="menu-item"><a href="{{ '/linked-open-data.html' | relative_url }}">Linked Open Data</a></li>
+								<li class="menu-item"><a href="{{ '/contact-us/' | relative_url }}">Contact</a></li>
+							</ol>
 						</nav>
 					</div>
 
