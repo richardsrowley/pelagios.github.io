@@ -50,11 +50,8 @@
   }
 }
 
-  .link-list a:hover {
-    
-    color: $turquoise;
-    
-  }
+.link-list a:hover {
+  color: $turquoise;    
 }
 
 @media (max-width: 900px) {
