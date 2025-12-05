@@ -164,7 +164,7 @@ body {
 }
 @media screen and (max-width: 600px) {
   .sub-menu .menu-item {
-    background: #C06C84;
+    
   }
 }
 
@@ -184,7 +184,7 @@ body {
   }
   .menu > ol {
     display: none;
-    background: #F67280;
+    color: $turquoise;
     flex-direction: column;
     justify-content: center;
     height: 100vh;

@@ -41,6 +41,20 @@
   justify-content: space-between;
   align-items: center;
   gap: 5rem;
+
+  .link-list a {
+    background-color: $blue--dark;
+    border-radius: 20px;
+    color: $white;
+    padding: 7px 10px;
+  }
+}
+
+  .link-list a:hover {
+    
+    color: $turquoise;
+    
+  }
 }
 
 @media (max-width: 900px) {
