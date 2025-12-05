@@ -1,6 +1,5 @@
-.home-hero { 
-  background: $light-grey; 
-    background-image: url(/assets/images/mainimage.jpg);
+.home-section { 
+  background-image: url(/assets/images/mainimage.jpg);
   background-size: cover;
   padding: 2rem 0;
   position: relative;
@@ -8,6 +7,10 @@
   transform: translateX(-50%);
   width: 100vw;
   clear: both;
+}
+
+.section-1, .section-3 { 
+  background: $light-grey; 
 }
 
 .home-hero .constrained.flexy {
