@@ -7,6 +7,7 @@ $light-grey: #E7E7E7;
 
 $turquoise: #0797D5;
 $turquoise--light: #59d8ff;
+$turquoise--dark: #0079AD;
 $sea-green-1: #099B9B;
 $sea-green-2: #0097AB;
 $sea-green-3: #399D6D;
@@ -223,6 +224,15 @@ p > img {
 
 
 // Common page elements //
+
+a {
+  color: $turquoise--dark;
+  text-decoration: underline;
+}
+a:hover {
+  color: $black;
+  text-decoration: underline;
+}
 
 button {
   display: inline-block;
