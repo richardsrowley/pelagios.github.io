@@ -80,7 +80,7 @@ body {
 }
 
 /* Mobile breakpoint */
-@media (max-width: 650px) {
+@media (max-width: 900px) {
   .site-header {
     flex-direction: column;    /* stack logo + menu vertically */
     align-items: center;
