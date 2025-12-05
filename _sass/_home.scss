@@ -27,11 +27,12 @@
   
 }
 
-.home-promo {
+.promo-2, .promo-3 {
   padding: 4rem 0;
 }
 
-.home-promo + .home-promo {
+.promo-3 {
+  background-color: $light-grey;
   padding: 0rem 0 4rem;
 }
 
@@ -39,9 +40,7 @@
 
 }
 
-.promo-2 {
-  background-color: $light-grey;
-}
+
 
 .blurb--home {
   max-width: 650px;
