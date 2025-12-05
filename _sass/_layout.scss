@@ -137,7 +137,13 @@ body {
   display: block;
   color: #FFF;
 }
-.menu-item:hover a{
+.menu-item:hover a {
+  color: $turquoise--light;
+}
+.menu-item:hover a ol a {
+  color: $white;
+}
+.menu-item:hover a ol .menu-item:hover a {
   color: $turquoise--light;
 }
 .sub-menu .menu-item {
