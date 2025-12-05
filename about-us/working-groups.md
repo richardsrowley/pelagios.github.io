@@ -16,14 +16,14 @@ permalink: /about-us/working-groups
 <p>Coordinators: Anne Chen and Elton Barker</p>
 <p class="link-list">
 	<div class="link-button">
-        <a href="mailto:annotation@pelagios.org">annotation@pelagios.org</a>
+        <a href="mailto:annotation@pelagios.org">Email</a>
     </div>
 </p>
 
 <hr />
 
 <h2>Maps</h2>
-<p>Establishes core requirements for global authority files on historic places and their alignment.</p>
+<h3>Establishes core requirements for global authority files on historic places and their alignment.</h3>
 <p>Coordinators: Tom Gheldof and Valeria Vitale</p>
 <p class="link-list">
 	<div class="link-button">
@@ -33,12 +33,52 @@ permalink: /about-us/working-groups
 
 <hr />
 
-<h2>Maps</h2>
-<p>Establishes core requirements for global authority files on historic places and their alignment.</p>
-<p>Coordinators: Tom Gheldof and Valeria Vitale</p>
+<h2>People</h2>
+<h3>Works towards consensus and standards for common representation of historical people in structured Linked Open Data.</h3>
+<p>Coordinators: Gabriel Bodard and Jun Ogawa</p>
 <p class="link-list">
 	<div class="link-button">
-        <a href="mailto:gazeteers@pelagios.org">Email</a>
+        <a href="mailto:people@pelagios.org">Email</a>
     </div>
 </p>
+
+<hr />
+
+<h2>Registry</h2>
+<h3>Establishes services for registering and discovering linked data collections for places.</h3>
+<p>Coordinators: Leif Isaksen and Pascal Belouin</p>
+<p class="link-list">
+	<div class="link-button">
+        <a href="mailto:registry@pelagios.org">Email</a>
+    </div>
+</p>
+
+<hr />
+
+<h2>Time</h2>
+<h3>Finding consensus on the representation of historical time in structured data.</h3>
+<p>Coordinators: Ryan Shaw and Adam Rabinowitz</p>
+<p class="link-list">
+	<div class="link-button">
+        <a href="mailto:time@pelagios.org">Email</a>
+    </div>
+</p>
+
+<hr />
+
+<h2>Visualisation</h2>
+<h3>Support developers and end-users in conceptualising and developing methods and tools for:</h3>
+<ul>
+    <li>visualisation, such as showing the geographic scope of a dataset, or representing a spatial network;</li>
+    <li>discovery, including the search and retrieval of data from across the collective of Partners, using filters that include period, data type, geographic location, and source;</li>
+    <li>analysis, by leveraging the outcome of linked data to stimulate new research questions and provide new insights.</li>
+</ul>
+<p>Coordinators: Ryan Shaw and Adam Rabinowitz</p>
+<p class="link-list">
+	<div class="link-button">
+        <a href="mailto:visualisation@pelagios.org">Email</a>
+    </div>
+</p>
+
+
 
