@@ -138,7 +138,7 @@ body {
 
 
 .menu {
-  background: #F67280;
+  background: $blue--dark;
   height: 4rem;
 }
 .menu ol {
@@ -164,7 +164,7 @@ body {
   border-radius: 50%;
   bottom: 5px;
   left: calc(50% - 2px);
-  background: #FECEAB;
+  background: $turquoise;
   will-change: transform;
   transform: scale(0);
   transition: transform 0.2s ease;
@@ -186,7 +186,7 @@ body {
 }
 .sub-menu .menu-item {
   padding: 0.75rem 0;
-  background: #F67280;
+  background: $blue--dark;
   opacity: 0;
   transform-origin: bottom;
   animation: enter 0.2s ease forwards;
