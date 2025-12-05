@@ -232,6 +232,7 @@ body {
     display: none;
     background: #F67280;
     flex-direction: column;
+    gap: 2rem;
     justify-content: center;
     height: 100vh;
     animation: fade 0.2s ease-out;
@@ -277,7 +278,7 @@ body {
 
 .sub-menu {
   position: absolute;
-  width: 100%;
+  //width: 100%;
   top: 100%;
   left: 0;
   display: none;
