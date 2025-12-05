@@ -43,16 +43,23 @@
   gap: 5rem;
 }
 
+
+.link-button {
+  clear: left;
+  float: left;
+  margin-bottom: 10px;
+}
+
 .link-button::before {
   content: "→ ";
 }
 
 .link-button a {
     text-decoration: underline;    
-    clear: left;
+    
     color: $blue--dark;
-    float: left;
-    margin-bottom: 10px;
+    
+    
 }
 
  .link-button a:hover {
