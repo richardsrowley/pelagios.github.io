@@ -1,5 +1,5 @@
 .home-section { 
-  background-image: url(/assets/images/mainimage.jpg);
+  
   background-size: cover;
   padding: 2rem 0;
   position: relative;
@@ -11,6 +11,11 @@
 
 .section-1, .section-3 { 
   background: $light-grey; 
+}
+
+
+.section-1 {
+  background-image: url(/assets/images/mainimage.jpg);
 }
 
 .home-section .constrained.flexy {
@@ -165,7 +170,6 @@
   max-height: 230px;
   max-width: 400px;
   iframe {
-    height:auto;
     max-height: 230px;
     max-width: 400px;
     }
