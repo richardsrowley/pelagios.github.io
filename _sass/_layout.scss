@@ -137,6 +137,9 @@ body {
   display: block;
   color: #FFF;
 }
+.menu-item:hover a{
+  color: $turquoise--light;
+}
 .sub-menu .menu-item {
   padding: 0.75rem 0;
   background: $blue--dark;
@@ -157,7 +160,7 @@ body {
   animation-delay: 0.2s;
 }
 .sub-menu .menu-item:hover a {
-  color: $turquoise;
+  
 }
 .sub-menu .menu-item a {
   padding: 0 0.75rem;
