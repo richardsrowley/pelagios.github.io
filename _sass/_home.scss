@@ -17,6 +17,11 @@
   gap: 5rem;
 }
 
+@media (max-width: 600px) {
+  .home-hero .constrained.flexy {
+    flex-direction: column;
+  }
+
 .home-intro {
   
 }
@@ -149,6 +154,11 @@
     //align-items: center;
     gap: 5rem;
 
+  }
+
+  @media (max-width: 600px) {
+  .home-promo {
+    flex-direction: column;
   }
   
   .promo-1 {

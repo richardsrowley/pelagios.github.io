@@ -53,52 +53,7 @@ body {
   }
 }
 
-.partner--related,
-.activity--coordinator {
-  float: left;
-  width: 100%;
-  img {
-    width: 50px;
-    height: 50px;
-    border-radius: 50px;
-    background: $light-grey;
-    float: left;
-    margin-right: 20px;
 
-  }
-  h3 {
-    margin-top: 10px;
-  }
-  .partner--text {
-    display: block;
-    float: left;
-    width: calc(100% - 70px);
-  }
-}
-
-.partner--related:last-of-type {
-  margin-bottom: 20px;
-}
-
-.partner--related {
-  margin-bottom: 30px;
-  p {
-    font-size: $font-size-small;
-  }
-}
-
-
-.activity--coordinator p {
-  margin: 0;
-}
-
-.activity--case-studies {
-  img {
-    float: right;
-    margin: 15px 0 20px 20px;
-    width: 125px;
-  }
-}
 
 
 .page--about-us, .page--our-activities {
@@ -124,16 +79,13 @@ body {
   padding: 1rem 0;
 }
 
-.site-nav ol {
-  display: flex;
-  justify-content: space-between;
-  list-style-type: none;
-  gap: 2rem;
-}
-
-
-.site-nav ol li {
-
+/* Mobile breakpoint */
+@media (max-width: 400px) {
+  .site-header {
+    flex-direction: column;    /* stack logo + menu vertically */
+    align-items: center;
+    gap: 1rem;                 /* spacing between the two rows */
+  }
 }
 
 
