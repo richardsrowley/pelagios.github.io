@@ -236,6 +236,7 @@ body {
     justify-content: center;
     height: 100vh;
     animation: fade 0.2s ease-out;
+    gap: 3rem!important;
   }
   .menu > ol > .menu-item {
     flex: 0;
@@ -278,9 +279,9 @@ body {
 
 .sub-menu {
   position: absolute;
-  //width: 100%;
+  width: 150px;
   top: 100%;
-  left: 0;
+  left: -75px;
   display: none;
   z-index: 1;
 }
