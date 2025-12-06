@@ -248,7 +248,8 @@ img.logo {
 footer {
   clear: both;
   margin-top: 100px;
-  display: inline-block;
+  display: flex;
+    flex-direction: column;
   width: 100%;
   margin-top: 2rem 0;
   font-size: $font-size-tiny;
@@ -262,6 +263,10 @@ footer {
   color: $white;
   display: flex;
   padding: 3rem 0;
+
+  p {
+    font-size: 1.3rem;
+  }
 }
 
 .footer-second {
