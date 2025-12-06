@@ -38,7 +38,7 @@ permalink: /linked-open-data
 
 <hr />
 
-<h3>Find out more</h3>
+<h2>Find out more</h2>
 
 <p>On this site you can also find:</p>
 <ul>
@@ -50,7 +50,7 @@ permalink: /linked-open-data
 
 <hr />
 
-<h4>About these videos</h4>
+<h3>About the videos on this page</h3>
 
 <p>
 These animations were funded by the AHRC for the 'Linking Islands of Data' project, led by Professor Daniel Pett and Professor Elton Barker (Open University) with the Pelagios Community, Getty Museum, Institute for the Study of the Ancient World, American Numismatics Society, Brown University, School of Advanced Study University of London.
