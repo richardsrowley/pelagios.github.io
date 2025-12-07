@@ -12,6 +12,7 @@ Pelagios supports a broad ecosystem of open tools, gazetteers, and reference res
 The tools and resources listed here represent the core components used across many Pelagios-related projects. Each one uses open standards, shared identifiers, or common vocabularies that enable data to be combined, visualised, or explored in new ways.
 </p>
 
+<hr />
 
 <h2>Annotation and Data Enrichment</h2>
 
