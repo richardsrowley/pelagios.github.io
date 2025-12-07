@@ -288,12 +288,14 @@ footer {
   background: $blue--dark;
   color: $white;
   padding: 3rem 0;
-  .constrained {
-    display: flex;
-    gap: 2rem;
-  }
 }
 
+@media (min-width : 600px) {
+  .footer-second .constrained {
+    display: flex;
+    gap: 2rem; 
+  }
+}
 
 .footer-second p, ul {
   color: $white;
@@ -309,14 +311,23 @@ footer ul {
 .footer-second a {
   color: $white;
   &:hover {
-   color: $turquoise--light;
+    color: $turquoise--light;
   }
 }
 
-.footer-1 {
-  @media (min-width : 600px) {
-
+@media (min-width : 600px) {
+  .footer-1 {
+    width: 50%
   }
+
+  .footer-2, .footer-3 {
+    width: 25%;
+  }
+}
+
+
+
+.footer-1 {
   
 }
 
