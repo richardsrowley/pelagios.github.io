@@ -292,8 +292,12 @@ footer {
 }
 
 
-.footer-3 p {
+.footer p {
   color: $white;
+}
+
+.footer-1 {
+
 }
 
 .footer-2 {
@@ -303,12 +307,7 @@ footer {
 }
 
 .footer-3 {
-  a {
-    background: $turquoise;
-    &:hover {
-      background: $almost-black;
-    }
-  }
+  
 }
 
 
