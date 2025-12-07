@@ -288,12 +288,20 @@ footer {
 .footer-second {
   background: $blue--dark;
   color: $white;
+  display: flex;
   padding: 3rem 0;
 }
 
 
 .footer p {
   color: $white;
+}
+
+.footer a {
+  color: $white;
+  &:hover {
+    color: $
+  }
 }
 
 .footer-1 {
@@ -323,9 +331,6 @@ footer {
   }
 }
 
-.link-cookie {
-  margin-left: 18px;
-}
 
 .link-twitter, .link-youtube {
   display: block;
