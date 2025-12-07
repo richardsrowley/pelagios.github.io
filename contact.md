@@ -15,6 +15,6 @@ permalink: /contact-us/
 
 <ul>
     <li>You can post questions to or follow news from our community simply by joining our <a href="https://groups.google.com/d/forum/pelagios-network">Google group</a> and join the Pelagios discussion.</li>
-    <li>Follow us on <a href="https://web-cdn.bsky.app/profile/did:plc:562fvmt6xxiypdvz36hjqdpw">Blue Sky</a> or check out our presentations and tutorials on <a href="https://www.youtube.com/channel/UC6-o6U7HgpFKYhghO_ObrXg">YouTube</a>.
+    <li>Follow us on <a href="https://web-cdn.bsky.app/profile/did:plc:562fvmt6xxiypdvz36hjqdpw">Blue Sky</a> or check out our presentations and tutorials on <a href="https://www.youtube.com/channel/UC6-o6U7HgpFKYhghO_ObrXg">YouTube</a>.</li>
 
 </ul>

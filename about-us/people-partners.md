@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linked Open Data
-permalink: /
+permalink: /lod/people-partners
 ---
 
 Chair: Anne Chen
