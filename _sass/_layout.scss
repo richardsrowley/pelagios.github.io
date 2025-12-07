@@ -279,6 +279,7 @@ footer {
 
     &:hover {
       background: $sea-green-2;
+      color: $white;
     }
   }  
 }
@@ -288,6 +289,7 @@ footer {
 .footer-second {
   background: $blue--dark;
   color: $white;
+  font-size: 1.2rem;;
   padding: 3rem 0;
   .constrained {
     display: flex;
@@ -304,7 +306,7 @@ footer ul {
   list-style: none;
 }
 
-footer a {
+.footer-second a {
   color: $white;
   &:hover {
    color: $turquoise--light;
@@ -313,7 +315,7 @@ footer a {
 
 .footer-1 {
   @media (min-width : 600px) {
-    width: 50%
+    width: 45%
   }
   
 }
