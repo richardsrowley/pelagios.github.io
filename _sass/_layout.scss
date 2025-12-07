@@ -279,7 +279,7 @@ footer {
     text-decoration: none;
 
     &:hover {
-      background: $blue--dark;
+      background: $sea-green-2;
     }
   }  
 }
@@ -292,31 +292,13 @@ footer {
   padding: 3rem 0;
 }
 
-footer ul {
-  display: block;
-  padding: 0;
-  float: left;
-  width: 100%;
-  li {
-    list-style-image: none;
-    list-style-type: none;
-    float: left;
-    clear: both;
-    margin-bottom: 10px;
-  }
-  a {
-    display: block;
-    background: $almost-black;
-    box-sizing: border-box;
-    padding: 4px 7px 6px;
-    text-decoration: none;
-    color: $white;
-    &:hover {
-      background: $turquoise;
-      color: $white;
-    }
+.footer-1 {
+  ul {
+    list-style: none;
   }
 }
+
+
 .footer-2 {
   a {
     background: $turquoise;
