@@ -288,8 +288,11 @@ footer {
 .footer-second {
   background: $blue--dark;
   color: $white;
-  display: flex;
   padding: 3rem 0;
+  .constrained {
+    display: flex;
+    gap: 2rem;
+  }
 }
 
 
