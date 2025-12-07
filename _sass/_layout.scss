@@ -288,6 +288,9 @@ footer {
   background: $blue--dark;
   color: $white;
   padding: 3rem 0;
+  p {
+    font-weight: 600;
+  }
 }
 
 @media (min-width : 600px) {
