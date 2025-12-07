@@ -310,9 +310,9 @@ footer a {
 
 .footer-1 {
   @media (min-width : 600px) {
-    float: left;
+    width: 50%
   }
-  width: 50%
+  
 }
 
 .footer-2 {
@@ -325,30 +325,11 @@ footer a {
 
 
 
-.footer-block {
-  @media (min-width : 600px) {
-    width:50%;
-    float: left;
-  }
-  @media (min-width : 900px) {
-    width: 33%;
-    float: left;
-  }
-}
 
 
-.link-twitter, .link-youtube {
-  display: block;
-  font-weight: 800;
-  margin-top: 18px;
-  text-decoration: none;
-}
 
-.link-youtube {
-  margin-top: 3px;
-}
 
-//
+// BUTTONS
 
 .link-button {
   clear: left;
