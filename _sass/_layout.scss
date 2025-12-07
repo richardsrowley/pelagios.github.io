@@ -269,6 +269,18 @@ footer {
     font-size: 1.3rem;
     text-align: center;
   }
+    a {
+      color: $white;
+
+      &:hover {
+        color: $turquoise--light;
+      }
+    }
+  
+}
+
+.footer-first a {
+  color: $white;
 }
 
 .footer-second {
