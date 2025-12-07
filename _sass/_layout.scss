@@ -252,7 +252,6 @@ footer {
     flex-direction: column;
   width: 100%;
   margin-top: 2rem 0;
-  font-size: $font-size-tiny;
 }
 
 .footer-first {
@@ -292,14 +291,18 @@ footer {
   padding: 3rem 0;
 }
 
-.footer-1 {
+
+.footer-3 p {
+  color: $white;
+}
+
+.footer-2 {
   ul {
     list-style: none;
   }
 }
 
-
-.footer-2 {
+.footer-3 {
   a {
     background: $turquoise;
     &:hover {
@@ -307,9 +310,8 @@ footer {
     }
   }
 }
-.footer-3 p {
-  font-size: 15px;
-}
+
+
 
 .footer-block {
   @media (min-width : 600px) {
