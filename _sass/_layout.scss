@@ -273,7 +273,9 @@ footer {
     background: $white;
     border-radius: 20px;
     color: $blue--dark;
-    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    padding: 1rem 0.5rem;
+    text-decoration: none;
 
     &:hover {
       background: $turquoise--light;
