@@ -156,6 +156,8 @@ h1, h2, h3, h4 {
   font-weight: 500;
 }
 
+
+
 h1 {
   color: $blue--dark;
   font-size: $font-size-x-large;
@@ -164,14 +166,13 @@ h1 {
 
 h2 {
   font-size: $font-size-large;
-  font-weight: normal;
   @include interpolate(font-size, 400px, 1800px, 22px, 26px);
   line-height: 1.2;
+  margin-top: 0.5rem
 }
 
 h3 {
   font-size: $font-size-medium;
-  font-weight: normal;
   @include interpolate(font-size, 400px, 1800px, 19px, 23px);
 }
 
