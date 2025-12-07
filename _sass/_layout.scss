@@ -269,19 +269,19 @@ footer {
     font-size: 1.3rem;
     text-align: center;
   }
-    a {
-      color: $white;
+  a {
+    background: $white;
+    border-radius: 20px;
+    color: $blue--dark;
+    padding: 0.5rem 1rem;
 
-      &:hover {
-        color: $turquoise--light;
-      }
+    &:hover {
+      background: $turquoise--light;
     }
-  
+  }  
 }
 
-.footer-first a {
-  color: $white;
-}
+
 
 .footer-second {
   background: $blue--dark;
