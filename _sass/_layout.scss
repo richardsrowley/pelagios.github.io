@@ -270,7 +270,7 @@ footer {
     text-align: center;
   }
   a {
-    background: $blue--dark;
+    background: $turquoise--dark;
     border-radius: 40px;
     color: $white;
     font-size: 1.2rem;
@@ -279,7 +279,7 @@ footer {
     text-decoration: none;
 
     &:hover {
-      background: $turquoise--light;
+      background: $blue--dark;
     }
   }  
 }
