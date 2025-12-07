@@ -236,8 +236,6 @@ body {
   text-decoration: none;
 }
 
-//$logo-height: 65px;
-//$logo-height-home: 90px;
 
 img.logo {
     width: 220px;
@@ -304,6 +302,8 @@ footer {
 
 footer ul {
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .footer-second a {
@@ -315,7 +315,7 @@ footer ul {
 
 .footer-1 {
   @media (min-width : 600px) {
-    width: 45%
+
   }
   
 }
