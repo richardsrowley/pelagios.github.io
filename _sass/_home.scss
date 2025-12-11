@@ -1,7 +1,7 @@
 .home-section { 
   
   background-size: cover;
-  padding: 2rem 0;
+  padding: 3rem 0;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
@@ -252,6 +252,11 @@
     margin-top: 0
   }
 
+  .home-intro h1 {
+    font-size: 1.8rem;
+  }
+  
   .home-intro h2 {
+    font-size: 1.5rem;
     font-weight: 400;
   }
