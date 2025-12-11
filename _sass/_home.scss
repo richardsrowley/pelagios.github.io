@@ -216,6 +216,15 @@
     }
   }
 
+.section-1 .video {
+  p {
+    color: white;
+  }
+  p a {
+    color: $white;
+  }
+}
+
   .home-promo {
     display: flex;
     justify-content: space-between;
@@ -255,8 +264,9 @@
   .home-intro h1 {
     font-size: 1.8rem;
   }
-  
+
   .home-intro h2 {
     font-size: 1.5rem;
     font-weight: 400;
   }
+
