@@ -20,28 +20,28 @@ permalink: /about-us/working-groups
 
 <div class="working-groups">
 
-    <h2>i. Place, People, and Time</h2>
+    <div class="subtitle">i. Place, People, and Time</div>
 
-<h3>Places</h3>
-    <h4>Establishes core requirements for global authority files on historic places and their alignment.</h4> 
+    <h2>Places</h2>
+    <h3 class="">Establishes core requirements for global authority files on historic places and their alignment.</h3> 
     <p>See our <a href="https://docs.google.com/document/d/1NyIrVYX6ThMhykyxgV7H_HJud2gwkpPGtj2PZVDcXi8/edit">Charter</a>.</p>
     <p>Coordinators: <a href="mailto:gazetteers@pelagios.org">Tom Gheldof and Valeria Vitale</a></p>
 
 
-    <h3>People</h3>
-    <h4>Works towards consensus and standards for common representation of historical people in structured Linked Open Data.</h4>
+    <h2>People</h2>
+    <h3>Works towards consensus and standards for common representation of historical people in structured Linked Open Data.</h3>
     <p>Rather than replacing existing solutions around shared person data formats, we recommend lightweight, minimal standards for interchange data, compatible with Pelagios registries, APIs and annotation tools. Needs and solutions will arise from consultation with communities of practice and stakeholders, in close collaboration with other PN activities. Results and discussions are disseminated openly throughout via online platforms, forums and repositories.</p>
     <p>For more information, see our <a href="https://docs.google.com/document/d/1xJK2-o1-rrt0kQXjpPsSpJ4CQT_iQzKZBaewCYTGGr8/edit?usp=sharing">Charter</a>, <a href="https://github.com/DigiClass/LOD-People/wiki">Wiki</a>, and our <a href="https://groups.google.com/g/ancient-people">Asynchronous discussion group</a>.</p>
     <p>Coordinators: <a href="mailto:people@pelagios.org">Gabriel Bodard and Jun Ogawa</a></p>
 
 
-    <h3>Time</h3>
-    <h4>Finding consensus on the representation of historical time in structured data.</h4>
+    <h2>Time</h2>
+    <h3>Finding consensus on the representation of historical time in structured data.</h3>
     <p>See our <a href="https://docs.google.com/document/d/1PDQC0MbxBnqyWwvGqtUBopWFEYxNc_kZhmvQl1cnBt0/edit?usp=sharing">Charter</a>.</p>
     <p>Coordinators: <a href="mailto:time@pelagios.org">Ryan Shaw and Adam Rabinowitz</a></p>
 
 
-    <hr />
+ 
 
     <h2>ii. Annotation, Registry, and Visualisation</h2>
 
