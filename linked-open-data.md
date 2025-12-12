@@ -8,9 +8,11 @@ permalink: /linked-open-data
 
 <h2>What is Linked Open Data?</h2>
 
-<p>Linked Open Data (LOD) is a way of publishing information so that it can be connected, reused, and understood across different systems. Instead of keeping data locked inside a single database or project, LOD uses shared identifiers, vocabularies, and standards to make relationships explicit — for example, linking places, periods, people, and objects across collections.</p>
+<p>Linked Open Data (LOD) is a way of publishing information so that it can be Found in, be Accessible to, Interoperate with, and be Reused across different systems (FAIR). Instead of keeping data locked inside a single database or project, LOD uses shared identifiers, vocabularies, and standards to make relationships explicit, linking places, periods, people, and objects across collections.</p>
 
-<p>In practice, this means that data created by many different researchers, institutions, or tools can be combined, compared, or visualised together. LOD does not replace existing catalogues or datasets; it adds a layer of meaning that helps them speak to one another.</p>
+<p>In practice, this means that data created by different researchers, projects and institutions, using different tools, can be combined, compared, or visualised together. LOD does not replace existing catalogues or datasets; it adds a layer of meaning that helps them speak to one another.</p>
+
+<p>Read more about <a href="https://www.ontotext.com/knowledgehub/fundamentals/linked-data-linked-open-data/">Linked Open Data (LOD)</a> and <a href="www.go-fair.org/fair-principles/">FAIR principles</a>.</p>
 
 <div class="video">
 		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mMR6JQ1M6qE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,7 +32,8 @@ permalink: /linked-open-data
 	<li>Collaborate across disciplines, collections, and institutions</li>
 	<li>Sustain your research over time, because others can understand and build on it</li>
 </ul>
-<p>Linking does not require large infrastructure or complex models. Even small, lightweight connections — a shared place reference, a common period definition — help bring different datasets into a wider conversation.<p>
+
+<p>Linking does not require large infrastructure or complex models. Even small, lightweight connections — a shared place reference, mention of the same person, a common period definition — help bring different datasets into a wider conversation. This is Pelagios's particular focus, or the "Pelagios way".</p>
 
 <div class="video">
 		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0m79yDb4AzE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,24 +41,18 @@ permalink: /linked-open-data
 
 <hr />
 
-<h2>Find out more</h2>
-
-<p>On this site you can also find:</p>
-<ul>
-	<li><a href="{{ '/lod/tools-resources' | relative_url }}">Tools and resources</a>. Tools, such as Recogito and Peripleo, that are supported by the Pelagios community.</li>
-	<li><a href="{{ '/lod/best-practice' | relative_url }}">Best practice</a> in linked open data.</li>
-	<li><a href="{{ '/lod/case-study' | relative_url }}">Case studies</a> of projects we have been involved with.</li>
-
-</ul>
-
-<hr />
-
 <h3>About the videos on this page</h3>
 
-<p>
-These animations were funded by the AHRC for the 'Linking Islands of Data' project, led by Professor Daniel Pett and Professor Elton Barker (Open University) with the Pelagios Community, Getty Museum, Institute for the Study of the Ancient World, American Numismatics Society, Brown University, School of Advanced Study University of London.
-</p>
+<p>These animations were funded by the AHRC for the <a href="https://data-islands.fitzmuseum.cam.ac.uk/">Linking Islands of Data</a> project, led by Pelagios Partners, <a href="https://museologi.st/">Professor Daniel Pett</a> and <a href="https://profiles.open.ac.uk/elton-barker">Professor Elton Barker</a> (The Open University), in collaboration with: the Getty Museum, the Institute for the Study of the Ancient World, the American Numismatics Society, Brown University, the School of Advanced Study at the University of London.</p> 
 
-<p>
-	The animations were made by Ed Tracy of <a href="https://www.too-tall.com">Too Tall Productions</a> and the voice over by Dr Hannah Platts of Royal Holloway, University of London. Photogrammetry 3D models created by Daniel Pett, rendering of Fitzwilliam gallery by Ed Tracy, Digital Periegesis mapping Pausanias application from University of Uppsala and Rainer Simon, numismatics from American Numismatics Society/Nomisma. All 3D models can be found on Sketchfab and can be downloaded under CC-BY-NC license.
-</p>
+<ul>Credits:
+	<li>animations: Ed Tracy of <a href="https://www.too-tall.com">Too Tall Productions</a></li>
+	<li>voice over: Dr Hannah Platts of Royal Holloway, University of London</li>
+	<li>photogrammetry 3D models: Daniel Pett</li>
+	<li>rendering of Fitzwilliam gallery: Ed Tracy</li>
+	<li>Pausanias Peripleo mapping: Anna Foka & Alexandros Kokkinidis (Uppsala), Elton Barker (OU), <a href="https://rainersimon.io/">Rainer Simon</a></li>
+	<li>numismatics: American Numismatics Society & Nomisma</li>
+</ul>
+
+<p>All 3D models can be found on Sketchfab and can be downloaded under CC-BY-NC license. All data (places, objects, people, events) mentioned in Pausanias are available to view and download via the <a href="https://www.periegesis.org/">Digital Periegesis</a> website.</p>
+
