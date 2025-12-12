@@ -49,30 +49,30 @@ permalink: /about-us/working-groups
 <hr />
 
 <h2>Annotation</h2>
-    <h3>The use of semantic annotation to link and explore historical place information.</h3>
-    <p>See our <a href="https://docs.google.com/document/d/1Id6Ml9XKxiyf_VsG98DyeXzlAtLUbKqfhiNRkFDY4PY/edit">Charter</a>.</p>    
-    <p>Coordinators: <a href="mailto:annotation@pelagios.org">Anne Chen and Elton Barker</a></p>
+<h3>The use of semantic annotation to link and explore historical place information.</h3>
+<p>See our <a href="https://docs.google.com/document/d/1Id6Ml9XKxiyf_VsG98DyeXzlAtLUbKqfhiNRkFDY4PY/edit">Charter</a>.</p>    
+<p>Coordinators: <a href="mailto:annotation@pelagios.org">Anne Chen and Elton Barker</a></p>
 
 <hr />
 
 <h2>Registry</h2>
-    <h3>Establishes services for registering and discovering linked data collections for places.</h3>
-    <ul>
+<h3>Establishes services for registering and discovering linked data collections for places.</h3>
+<ul>
         <li>See our <a href="https://docs.google.com/document/d/1f68dVAP3-vXQX9onc7lHCQO4o0KbNne_rg1cRMlsi7A/edit">Charter</a>.</li>
         <li>Coordinators: <a href="mailto:registry@pelagios.org">Leif Isaksen and Pascal Belouin</a></li>
-    </ul>
+</ul>
 
 <hr />
 
 <h2>Visualisation</h2>
-    <h3>Support developers and end-users in conceptualising and developing methods and tools for:</h3>
-    <ul>
-        <li>visualisation, such as showing the geographic scope of a dataset, or representing a spatial network;</li>
-        <li>discovery, including the search and retrieval of data from across the collective of Partners, using filters that include period, data type, geographic location, and source;</li>
-        <li>analysis, by leveraging the outcome of linked data to stimulate new research questions and provide new insights.</li>
-    </ul>
-    <p>See our <a href="https://docs.google.com/document/d/1auz-efYqWhhIZiNC05W1mvE3awdhcnu-7qb4VfkOfCc/edit?usp=sharing">Charter</a>.</p>
-    <p>Coordinators: <a href="mailto:visualisation@pelagios.org">Gethin Rees and Stephen Gadd</a></p>
+<h3>Support developers and end-users in conceptualising and developing methods and tools for:</h3>
+<ul>
+    <li>visualisation, such as showing the geographic scope of a dataset, or representing a spatial network;</li>
+    <li>discovery, including the search and retrieval of data from across the collective of Partners, using filters that include period, data type, geographic location, and source;</li>
+    <li>analysis, by leveraging the outcome of linked data to stimulate new research questions and provide new insights.</li>
+</ul>
+<p>See our <a href="https://docs.google.com/document/d/1auz-efYqWhhIZiNC05W1mvE3awdhcnu-7qb4VfkOfCc/edit?usp=sharing">Charter</a>.</p>
+<p>Coordinators: <a href="mailto:visualisation@pelagios.org">Gethin Rees and Stephen Gadd</a></p>
 
 </div>
 
