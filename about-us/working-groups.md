@@ -16,17 +16,20 @@ permalink: /about-us/working-groups
 
 <p>Pelagios working groups are based on two dimensions of LOD practice: (i) core entities of Place, People, and Time; and (ii) core processes of Annotation, Registry, and Visualisation. The primary goal of each working group is to work towards consensus and standards for the common representation of historical entities in structured LOD.</p>
 
-<hr />
+
 
 <div class="working-groups">
 
     <div class="subtitle">i. Place, People, and Time</div>
+
+    <hr />
 
     <h2>Places</h2>
     <h3 class="">Establishes core requirements for global authority files on historic places and their alignment.</h3> 
     <p>See our <a href="https://docs.google.com/document/d/1NyIrVYX6ThMhykyxgV7H_HJud2gwkpPGtj2PZVDcXi8/edit">Charter</a>.</p>
     <p>Coordinators: <a href="mailto:gazetteers@pelagios.org">Tom Gheldof and Valeria Vitale</a></p>
 
+<hr />
 
     <h2>People</h2>
     <h3>Works towards consensus and standards for common representation of historical people in structured Linked Open Data.</h3>
@@ -34,6 +37,7 @@ permalink: /about-us/working-groups
     <p>For more information, see our <a href="https://docs.google.com/document/d/1xJK2-o1-rrt0kQXjpPsSpJ4CQT_iQzKZBaewCYTGGr8/edit?usp=sharing">Charter</a>, <a href="https://github.com/DigiClass/LOD-People/wiki">Wiki</a>, and our <a href="https://groups.google.com/g/ancient-people">Asynchronous discussion group</a>.</p>
     <p>Coordinators: <a href="mailto:people@pelagios.org">Gabriel Bodard and Jun Ogawa</a></p>
 
+<hr />
 
     <h2>Time</h2>
     <h3>Finding consensus on the representation of historical time in structured data.</h3>
@@ -45,12 +49,14 @@ permalink: /about-us/working-groups
 
     <div class="subtitle">ii. Annotation, Registry, and Visualisation</div>
 
+<hr />
+
     <h2>Annotation</h2>
     <h3>The use of semantic annotation to link and explore historical place information.</h3>
     <p>See our <a href="https://docs.google.com/document/d/1Id6Ml9XKxiyf_VsG98DyeXzlAtLUbKqfhiNRkFDY4PY/edit">Charter</a>.</p>    
     <p>Coordinators: <a href="mailto:annotation@pelagios.org">Anne Chen and Elton Barker</a></p>
 
-
+<hr />
 
     <h2>Registry</h2>
     <h3>Establishes services for registering and discovering linked data collections for places.</h3>
@@ -59,7 +65,7 @@ permalink: /about-us/working-groups
         <li>Coordinators: <a href="mailto:registry@pelagios.org">Leif Isaksen and Pascal Belouin</a></li>
     </ul>
 
-
+<hr />
 
     <h2>Visualisation</h2>
     <h3>Support developers and end-users in conceptualising and developing methods and tools for:</h3>
