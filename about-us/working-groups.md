@@ -20,7 +20,7 @@ permalink: /about-us/working-groups
 
 
 
-    <hr />
+<hr />
 
 <h2>Places</h2>
     <h3 class="">Establishes core requirements for global authority files on historic places and their alignment.</h3> 
