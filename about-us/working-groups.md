@@ -43,22 +43,24 @@ permalink: /about-us/working-groups
 
 <h2>ii. Annotation, Registry, and Visualisation</h2>
 
-<h2>Annotation</h2>
-<h3>The use of semantic annotation to link and explore historical place information.</h3>
+<h3>Annotation</h3>
+<h4>The use of semantic annotation to link and explore historical place information.</h4>
 <p>See our <a href="https://docs.google.com/document/d/1Id6Ml9XKxiyf_VsG98DyeXzlAtLUbKqfhiNRkFDY4PY/edit">Charter</a>.</p>    
 <p>Coordinators: <a href="mailto:annotation@pelagios.org">Anne Chen and Elton Barker</a></p>
 
 
 
-<h2>Registry</h2>
-<h3>Establishes services for registering and discovering linked data collections for places.</h3>
-<p>See our <a href="https://docs.google.com/document/d/1f68dVAP3-vXQX9onc7lHCQO4o0KbNne_rg1cRMlsi7A/edit">Charter</a>.</p>
-<p>Coordinators: <a href="mailto:registry@pelagios.org">Leif Isaksen and Pascal Belouin</a></p>
+<h3>Registry</h3>
+<h4>Establishes services for registering and discovering linked data collections for places.</h4>
+<ul>
+    <li>See our <a href="https://docs.google.com/document/d/1f68dVAP3-vXQX9onc7lHCQO4o0KbNne_rg1cRMlsi7A/edit">Charter</a>.</li>
+    <li>Coordinators: <a href="mailto:registry@pelagios.org">Leif Isaksen and Pascal Belouin</a></li>
+</ul>
 
 
 
-<h2>Visualisation</h2>
-<h3>Support developers and end-users in conceptualising and developing methods and tools for:</h3>
+<h3>Visualisation</h3>
+<h4>Support developers and end-users in conceptualising and developing methods and tools for:</h4>
 <ul>
     <li>visualisation, such as showing the geographic scope of a dataset, or representing a spatial network;</li>
     <li>discovery, including the search and retrieval of data from across the collective of Partners, using filters that include period, data type, geographic location, and source;</li>
