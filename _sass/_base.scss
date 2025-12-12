@@ -188,6 +188,10 @@ p,
   @include interpolate(font-size, 400px, 1800px, 15px, 19px);
 }
 
+h3 + h4 {
+    margin-top: -1rem;
+}
+
 h3 + p {
   margin-top: -12px;
 }

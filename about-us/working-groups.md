@@ -20,13 +20,13 @@ permalink: /about-us/working-groups
 
 <h2>i. Place, People, and Time</h2>
 
-<h2>Places</h2>
-<h3>Establishes core requirements for global authority files on historic places and their alignment.</h3> 
+<h3>Places</h3>
+<h4>Establishes core requirements for global authority files on historic places and their alignment.</h4> 
 <p>See our <a href="https://docs.google.com/document/d/1NyIrVYX6ThMhykyxgV7H_HJud2gwkpPGtj2PZVDcXi8/edit">Charter</a>.</p>
 <p>Coordinators: <a href="mailto:gazetteers@pelagios.org">Tom Gheldof and Valeria Vitale</a></p>
 
 
-<h3>People</h2>
+<h3>People</h3>
 <h4>Works towards consensus and standards for common representation of historical people in structured Linked Open Data.</h4>
 <p>Rather than replacing existing solutions around shared person data formats, we recommend lightweight, minimal standards for interchange data, compatible with Pelagios registries, APIs and annotation tools. Needs and solutions will arise from consultation with communities of practice and stakeholders, in close collaboration with other PN activities. Results and discussions are disseminated openly throughout via online platforms, forums and repositories.</p>
 <p>For more information, see our <a href="https://docs.google.com/document/d/1xJK2-o1-rrt0kQXjpPsSpJ4CQT_iQzKZBaewCYTGGr8/edit?usp=sharing">Charter</a>, <a href="https://github.com/DigiClass/LOD-People/wiki">Wiki</a>, and our <a href="https://groups.google.com/g/ancient-people">Asynchronous discussion group</a>.</p>
