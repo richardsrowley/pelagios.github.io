@@ -70,12 +70,13 @@ body {
     }
   }
   h3 {
-    margin-top: 2rem;
+
   }
 
   .subtitle {
-    font-weight: 500;
-    size: 1.1rem;
+    color: $turquoise--dark
+    font-weight: 600;
+    font-size: 1.3rem;
   }
 }
 
