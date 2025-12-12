@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Methods, Standards, and Vocabularies
-permalink: /methods/
+permalink: /methods
 ---
 
 <p>While the idea of linking information is simple, the technical know-how needed to publish or make use of LOD is not inconsiderable. For this reason, Pelagios Partners have co-created methods which, along with related tools, lower technical barriers to enable humanities scholars and cultural heritage practitioners to participate in doing LOD. </p>
