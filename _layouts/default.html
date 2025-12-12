@@ -11,7 +11,7 @@
 			{% endif %}
 
 		</head>
-		<body class="page--{{ pageclass }} page--type-{{ pageclasstype }}" >
+		<body class="page--{{ pageclass }} page--type-{{ pageclasstype }}{% if page.body_class %} {{ page.body_class }}{% endif %}">
 			<header>
 				<div class="constrained">
 					<div class="site-header">
