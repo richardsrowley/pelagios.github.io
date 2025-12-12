@@ -18,11 +18,11 @@ permalink: /about-us/working-groups
 
 <hr />
 
-<div class="working-groups>
+<div class="working-groups">
 
     <h2>i. Place, People, and Time</h2>
 
-    <h3>Places</h3>
+<h3>Places</h3>
     <h4>Establishes core requirements for global authority files on historic places and their alignment.</h4> 
     <p>See our <a href="https://docs.google.com/document/d/1NyIrVYX6ThMhykyxgV7H_HJud2gwkpPGtj2PZVDcXi8/edit">Charter</a>.</p>
     <p>Coordinators: <a href="mailto:gazetteers@pelagios.org">Tom Gheldof and Valeria Vitale</a></p>
