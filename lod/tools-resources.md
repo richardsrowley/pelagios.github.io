@@ -4,12 +4,10 @@ title: Tools and Resources
 permalink: /lod/tools-resources
 ---
 
-<p>
-Pelagios supports a broad ecosystem of open tools, gazetteers, and reference resources that make it easier to create, enrich, and link historical and heritage data. These tools are developed and maintained by different members of our network, but they share a common goal: to help people connect information across collections, disciplines, and projects.
-</p>
+<p>Pelagios supports a broad ecosystem of open tools, gazetteers, and reference resources that make it easier to create, enrich, and link historical and heritage data. By being developed and maintained by different Partners, this insures against the risk of dependency on a single point of funding or resource. Equally, by being developed under the aegis of the Network, this helps avoid duplication and better supports interoperability. While being developed independently, they share a common goal: to help people connect information across collections, disciplines, and projects. </p>
 
 <p>
-The tools and resources listed here represent the core components used across many Pelagios-related projects. Each one uses open standards, shared identifiers, or common vocabularies that enable data to be combined, visualised, or explored in new ways.
+The tools and resources listed here represent the core components used across many Pelagios-related projects. Each one uses open standards, shared identifiers, or common vocabularies that enable data to be combined, visualised, or explored in new ways. 
 </p>
 
 <hr />
@@ -18,14 +16,14 @@ The tools and resources listed here represent the core components used across ma
 
 <h3>Recogito Studio</h3>
 <p>
-A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse.
+A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse. 
 <br>
 &rightarrow; Used in classroom projects, digital editions, and archival annotation workflows.
 </p>
 
 <h3>Annotorious</h3>
 <p>
-A lightweight open-source image annotation library that powers annotation inside many Pelagios projects and external tools.
+A lightweight open-source image annotation library that powers annotation inside many Pelagios projects and external tools. 
 <br>
 &rightarrow; Useful for integrating annotation into custom websites or research interfaces.
 </p>

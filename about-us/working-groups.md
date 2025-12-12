@@ -74,7 +74,7 @@ permalink: /about-us/working-groups
 <p>See our <a href="https://docs.google.com/document/d/1auz-efYqWhhIZiNC05W1mvE3awdhcnu-7qb4VfkOfCc/edit?usp=sharing">Charter</a>.</p>
 <p>Coordinators: <a href="mailto:visualisation@pelagios.org">Gethin Rees and Stephen Gadd</a></p>
 
-</div>
+
 
 
 
