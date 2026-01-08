@@ -12,7 +12,7 @@ permalink: /lod/case-studies
 
 <h2>Mapping a literary geography</h2>
 
-<p>>The <a href="https://www.periegesis.org/en/">Digital Periegesis</a> (DP) maps the "deep dive" into the places of and accounts about the ancient Greek mainland by the second-century author, Pausanias. Using the open-source tool, <a href="https://recogitostudio.org/">Recogito Studio</a>, the DP has annotated some 4225 places, 1762 objects/artworks, 3882 people/groups, 161 cited ancient texts, and over 1000 events recorded by Pausanias. Using the <a href="https://nodegoat.net/"Nodegoat platform</a>, all these data have URIs, have been linked to external authorities (like Wikidata) where possible, are free to download as csv or geoJSON files, and can be visualised in various in-built maps.</p>
+<p>The <a href="https://www.periegesis.org/en/">Digital Periegesis</a> (DP) maps the "deep dive" into the places of and accounts about the ancient Greek mainland by the second-century author, Pausanias. Using the open-source tool, <a href="https://recogitostudio.org/">Recogito Studio</a>, the DP has annotated some 4225 places, 1762 objects/artworks, 3882 people/groups, 161 cited ancient texts, and over 1000 events recorded by Pausanias. Using the <a href="https://nodegoat.net/">Nodegoat platform</a>, all these data have URIs, have been linked to external authorities (like Wikidata) where possible, are free to download as csv or geoJSON files, and can be visualised in various in-built maps.</p>
 
 
 
