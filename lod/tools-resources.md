@@ -52,10 +52,10 @@ The tools and resources listed here represent the core components used across ma
 <div class="imgtxt">
   <div class="imgtxt-txt">
     <h3>Heritage Browser</h3>
-    <p>Heritage Browser is map-based discovery interface for exploring large cultural heritage collections. Built with MapLibre and a custom backend, it enables smooth, immediate navigation through hundreds of thousands of geo-located objects.</p>
+    <p><a href="https://geo.nli.org.il/en?#map=1/0/0">Heritage Browser</a> is a map-based discovery interface for exploring large cultural heritage collections. Built with MapLibre and a custom backend, it enables smooth, immediate navigation through hundreds of thousands of geo-located objects.</p>
  </div>
   <div class="imgtxt-img">
-    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
+    <img src="{{ '/assets/images/heritage.png' | relative_url }}" alt="Decorative screenshot of the tool">
   </div>
 </div> 
 
@@ -79,7 +79,7 @@ The tools and resources listed here represent the core components used across ma
     A community-curated gazetteer of period definitions from archaeology, art history, and related disciplines. PeriodO assigns stable identifiers to scholarly period definitions, allowing researchers to reference time periods in a structured, comparable way. PeriodO supports chronological alignment across datasets using different period systems.</p>
   </div>
   <div class="imgtxt-img">
-    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
+    <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Decorative screenshot of the tool">
   </div>
 </div> 
 
@@ -91,7 +91,7 @@ The tools and resources listed here represent the core components used across ma
     </p>
   </div>
   <div class="imgtxt-img">
-    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
+    <img src="{{ '/assets/images/pleiades.png' | relative_url }}" alt="Decorative screenshot of the tool">
   </div>
 </div> 
 
@@ -102,7 +102,7 @@ The tools and resources listed here represent the core components used across ma
     A set of reference databases for people, places, and texts in the ancient world. Often used to enrich or cross-reference linked data projects involving documentary sources.</p>
   </div>
   <div class="imgtxt-img">
-    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
+    <img src="{{ '/assets/images/trismegistos.png' | relative_url }}" alt="Decorative screenshot of the tool">
   </div>
 </div> 
 
@@ -115,7 +115,7 @@ The tools and resources listed here represent the core components used across ma
     </p>
   </div>
   <div class="imgtxt-img">
-    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
+    <img src="{{ '/assets/images/whg.png' | relative_url }}" alt="Decorative screenshot of the tool">
   </div>
 </div> 
 
