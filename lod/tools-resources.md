@@ -26,21 +26,29 @@ The tools and resources listed here represent the core components used across ma
   </div>
 </div>
 
-<h3>Annotorious</h3>
-<p>
-A lightweight open-source image annotation library that powers annotation inside many Pelagios projects and external tools. 
-<br>
-Annotorious is useful for integrating annotation into custom websites or research interfaces.
-</p>
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+    <h3>Annotorious</h3>
+    <p>A lightweight open-source image annotation library that powers annotation inside many Pelagios projects and external tools. Annotorious is useful for integrating annotation into custom websites or research interfaces.</p>
+  </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/annotorious.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
+  </div>
+</div>   
 
 
 <h2>Exploration and Visualisation</h2>
 
-<h3>Peripleo</h3>
-<p>
-A JavaScript library for exploring linked data visually. Peripleo can map spatial footprints of collection data, show relationships between entities, or surface patterns within large datasets. Peripleo is often used to create browsable interfaces for heritage collections or research corpora.
-</p>
-
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+  <h3>Peripleo</h3>
+  <p>
+  A JavaScript library for exploring linked data visually. Peripleo can map spatial footprints of collection data, show relationships between entities, or surface patterns within large datasets. Peripleo is often used to create browsable interfaces for heritage collections or research corpora.</p>
+  </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
+  </div>
+</div>  
 
 <h2>Gazetteers and Period Resources</h2>
 
