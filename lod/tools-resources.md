@@ -20,7 +20,17 @@ The tools and resources listed here represent the core components used across ma
     <p>A lightweight open-source image annotation library that powers annotation inside many Pelagios projects and external tools. Annotorious is useful for integrating annotation into custom websites or research interfaces.</p>
   </div>
   <div class="imgtxt-img">
-    <img src="{{ '/assets/images/annotorious-c.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
+    <img src="{{ '/assets/images/annotorious.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
+  </div>
+</div>  
+
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+    <h3>IMMARKUS</h3>
+    <p>IMMARKUS is a browser-based, open source environment for semantic image annotation, designed for researchers, digital humanists, and cultural heritage professionals. It offers a multi-image annotation workbench with AI-assisted drawing tools for faster region selection, a lightweight ontology builder, and an interactive, searchable knowledge graph.</p>
+  </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
   </div>
 </div>  
 
@@ -30,7 +40,7 @@ The tools and resources listed here represent the core components used across ma
     <p>A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse. Recogito Studio is used in classroom projects, digital editions, and archival annotation workflows.</p>
   </div>
     <div class="imgtxt-img">
-    <img src="{{ '/assets/images/img2.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
+    <img src="{{ '/assets/images/recogito.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
   </div>
 </div>
 
@@ -62,31 +72,52 @@ The tools and resources listed here represent the core components used across ma
 
 <h2>Gazetteers and Period Resources</h2>
 
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+    <h3>PeriodO</h3>
+    <p>
+    A community-curated gazetteer of period definitions from archaeology, art history, and related disciplines. PeriodO assigns stable identifiers to scholarly period definitions, allowing researchers to reference time periods in a structured, comparable way. PeriodO supports chronological alignment across datasets using different period systems.</p>
+  </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
+  </div>
+</div> 
+
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+    <h3>Pleiades</h3>
+    <p>
+    A comprehensive gazetteer of ancient places, widely used across Pelagios-related projects. Pleiades provides stable identifiers for places in the Greek, Roman, and ancient Mediterranean worlds.
+    </p>
+  </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
+  </div>
+</div> 
+
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+    <h3>Trismegistos</h3>
+    <p>
+    A set of reference databases for people, places, and texts in the ancient world. Often used to enrich or cross-reference linked data projects involving documentary sources.</p>
+  </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
+  </div>
+</div> 
 
 
-<h3>IMMARKUS</h3>
-<p>IMMARKUS is a browser-based, open source environment for semantic image annotation, designed for researchers, digital humanists, and cultural heritage professionals. It offers a multi-image annotation workbench with AI-assisted drawing tools for faster region selection, a lightweight ontology builder, and an interactive, searchable knowledge graph.</p>
-
-<h3>PeriodO</h3>
-<p>
-A community-curated gazetteer of period definitions from archaeology, art history, and related disciplines. PeriodO assigns stable identifiers to scholarly period definitions, allowing researchers to reference time periods in a structured, comparable way. PeriodO supports chronological alignment across datasets using different period systems.
-</p>
-
-<h3>Pleiades</h3>
-<p>
-A comprehensive gazetteer of ancient places, widely used across Pelagios-related projects. Pleiades provides stable identifiers for places in the Greek, Roman, and ancient Mediterranean worlds.
-</p>
-
-<h3>Trismegistos</h3>
-<p>
-A set of reference databases for people, places, and texts in the ancient world. Often used to enrich or cross-reference linked data projects involving documentary sources.
-</p>
-
-<h3>World Historical Gazetteer (WHG)</h3>
-<p>
-A growing index of historical place data contributed by projects around the world. WHG aggregates and reconciles place names, helping researchers link their own data to shared geographic identifiers. The WHG is useful for mapping historical datasets or aligning places across projects.
-</p>
-
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+    <h3>World Historical Gazetteer (WHG)</h3>
+    <p>
+    A growing index of historical place data contributed by projects around the world. WHG aggregates and reconciles place names, helping researchers link their own data to shared geographic identifiers. The WHG is useful for mapping historical datasets or aligning places across projects.
+    </p>
+  </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
+  </div>
+</div> 
 
 
 <h2>How these tools work together</h2>
