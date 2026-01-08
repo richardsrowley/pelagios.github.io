@@ -14,9 +14,17 @@ The tools and resources listed here represent the core components used across ma
 
 <h2>Annotation and Data Enrichment</h2>
 
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+    <h3>Annotorious</h3>
+    <p>A lightweight open-source image annotation library that powers annotation inside many Pelagios projects and external tools. Annotorious is useful for integrating annotation into custom websites or research interfaces.</p>
+  </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/annotorious-c.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
+  </div>
+</div>  
 
 <div class="imgtxt">
-
   <div class="imgtxt-txt">
     <h3>Recogito Studio</h3>
     <p>A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse. Recogito Studio is used in classroom projects, digital editions, and archival annotation workflows.</p>
@@ -26,34 +34,35 @@ The tools and resources listed here represent the core components used across ma
   </div>
 </div>
 
-<div class="imgtxt">
-  <div class="imgtxt-txt">
-    <h3>Annotorious</h3>
-    <p>A lightweight open-source image annotation library that powers annotation inside many Pelagios projects and external tools. Annotorious is useful for integrating annotation into custom websites or research interfaces.</p>
-  </div>
-  <div class="imgtxt-img">
-    <img src="{{ '/assets/images/annotorious.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
-  </div>
-</div>   
+ 
 
 
 <h2>Exploration and Visualisation</h2>
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
+    <h3>Heritage Browser</h3>
+    <p>Heritage Browser is map-based discovery interface for exploring large cultural heritage collections. Built with MapLibre and a custom backend, it enables smooth, immediate navigation through hundreds of thousands of geo-located objects.</p>
+ </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
+  </div>
+</div> 
+
+
+<div class="imgtxt">
+  <div class="imgtxt-txt">
   <h3>Peripleo</h3>
-  <p>
-  A JavaScript library for exploring linked data visually. Peripleo can map spatial footprints of collection data, show relationships between entities, or surface patterns within large datasets. Peripleo is often used to create browsable interfaces for heritage collections or research corpora.</p>
+  <p>A JavaScript library for exploring linked data visually. Peripleo can map spatial footprints of collection data, show relationships between entities, or surface patterns within large datasets. Peripleo is often used to create browsable interfaces for heritage collections or research corpora.</p>
   </div>
   <div class="imgtxt-img">
-    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
+    <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
   </div>
 </div>  
 
 <h2>Gazetteers and Period Resources</h2>
 
-<h3>Heritage Browser</h3>
-<p>Heritage Browser is map-based discovery interface for exploring large cultural heritage collections. Built with MapLibre and a custom backend, it enables smooth, immediate navigation through hundreds of thousands of geo-located objects.</p>
+
 
 <h3>IMMARKUS</h3>
 <p>IMMARKUS is a browser-based, open source environment for semantic image annotation, designed for researchers, digital humanists, and cultural heritage professionals. It offers a multi-image annotation workbench with AI-assisted drawing tools for faster region selection, a lightweight ontology builder, and an interactive, searchable knowledge graph.</p>
