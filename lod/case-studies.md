@@ -4,23 +4,18 @@ title: Case Studies
 permalink: /lod/case-studies
 ---
 
-<p>
-Pelagios brings together researchers, developers, and heritage professionals who are exploring new ways of linking and enriching historical data. 
-The case studies collected here highlight practical examples of how Pelagios tools, standards, and methods are being used in different projects, disciplines, and collections.
-</p>
+<h2>Community archaeology on a global scale</h2>
 
-<p>
-Each case study focuses on a specific challenge or research question and shows how linked data approaches — such as shared identifiers, gazetteers, or structured annotation — contribute to analysis, discovery, or visualisation. 
-These examples are intended to help you understand what is possible, provide starting points for your own work, and demonstrate the value of interoperable data across the cultural heritage and humanities sectors.
-</p>
+<p>The International Dura-Europos Archive (IDEA) digitally re-integrates dispersed collections and discipline-specific knowledge using Linked Open Data. In collaboration with local Syrian communities, IDEA uses Wikidata to build bridges among ‘islands’ of FAIR data and print resources to recontextualize content. Artefacts, once belonging to the same place, which form part of collections as far apart as Paris and New Haven, can now be reunited.<p>
 
-<p>
-We welcome contributions from across the community. If you have a project, workflow, or experiment that could help others understand how to apply linked data in practice, please get in touch with the Pelagios Officers or your Interest Group.
-</p>
 
-<h2>Case studies</h2>
 
-<p>
-The case studies below represent a mix of teaching projects, digital editions, collection enrichment workflows, and experimentation with tools such as Recogito Studio, Peripleo, WHG, and PeriodO.
-Each one provides a short narrative, links to data and documentation, and references to the standards or vocabularies used.
-</p>
+<h2>Mapping a literary geography</h2>
+
+<p>>The Digital Periegesis (DP) maps the "deep dive" into the places of and accounts about the ancient Greek mainland by the second-century author, Pausanias. Using the open-source tool, Recogito, the DP has annotated some 4225 places, 1762 objects/artworks, 3882 people/groups, 161 cited ancient texts, and over 1000 events recorded by Pausanias. Using the Nodegoat platform, all these data have URIs, have been linked to external authorities (like Wikidata) where possible, are free to download as csv or geoJSON files, and can be visualised in various in-built maps.</p>
+
+
+
+<h2>Placing collections</h2>
+
+<p>Locating a national collection helps cultural heritage organisations to use locations – such as where objects were made and used or the places they depict and describe – to connect diverse collections and to engage researchers and public audiences in new ways. The ability to map the spatial footprint of different collections and enable links to the resources they contain is realised through the open-source mapping software, Peripleo. A browser-based tool for the mapping of things related to place, Peripleo can be hosted (for free) on Github and embedded in other web sites, wikis, and blogs using IFrames.</p>
