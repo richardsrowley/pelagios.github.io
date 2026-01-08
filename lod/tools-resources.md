@@ -16,7 +16,7 @@ The tools and resources listed here represent the core components used across ma
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-    <h3>Annotorious</h3>
+    <h3><a href="https://annotorious.dev/">Annotorious</a></h3>
     <p>A lightweight open-source image annotation library that powers annotation inside many Pelagios projects and external tools. Annotorious is useful for integrating annotation into custom websites or research interfaces.</p>
   </div>
   <div class="imgtxt-img">
@@ -26,7 +26,7 @@ The tools and resources listed here represent the core components used across ma
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-    <h3>IMMARKUS</h3>
+    <h3><a href="https://immarkus.xmarkus.org/">IMMARKUS</a></h3>
     <p>IMMARKUS is a browser-based, open source environment for semantic image annotation, designed for researchers, digital humanists, and cultural heritage professionals. It offers a multi-image annotation workbench with AI-assisted drawing tools for faster region selection, a lightweight ontology builder, and an interactive, searchable knowledge graph.</p>
   </div>
   <div class="imgtxt-img">
@@ -36,7 +36,7 @@ The tools and resources listed here represent the core components used across ma
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-    <h3>Recogito Studio</h3>
+    <h3><a href="https://recogitostudio.org/">Recogito Studio</a></h3>
     <p>A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse. Recogito Studio is used in classroom projects, digital editions, and archival annotation workflows.</p>
   </div>
     <div class="imgtxt-img">
@@ -51,8 +51,8 @@ The tools and resources listed here represent the core components used across ma
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-    <h3>Heritage Browser</h3>
-    <p><a href="https://geo.nli.org.il/en?#map=1/0/0">Heritage Browser</a> is a map-based discovery interface for exploring large cultural heritage collections. Built with MapLibre and a custom backend, it enables smooth, immediate navigation through hundreds of thousands of geo-located objects.</p>
+    <h3><a href="https://geo.nli.org.il/en?#map=1/0/0">Heritage Browser</a></h3>
+    <p>A map-based discovery interface for exploring large cultural heritage collections. Built with MapLibre and a custom backend, it enables smooth, immediate navigation through hundreds of thousands of geo-located objects.</p>
  </div>
   <div class="imgtxt-img">
     <img src="{{ '/assets/images/heritage.png' | relative_url }}" alt="Decorative screenshot of the tool">
@@ -62,7 +62,7 @@ The tools and resources listed here represent the core components used across ma
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-  <h3>Peripleo</h3>
+  <h3><a href="https://britishlibrary.github.io/locating-a-national-collection/Peripleo.html">Peripleo</a></h3>
   <p>A JavaScript library for exploring linked data visually. Peripleo can map spatial footprints of collection data, show relationships between entities, or surface patterns within large datasets. Peripleo is often used to create browsable interfaces for heritage collections or research corpora.</p>
   </div>
   <div class="imgtxt-img">
@@ -74,7 +74,7 @@ The tools and resources listed here represent the core components used across ma
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-    <h3>PeriodO</h3>
+    <h3><a href="https://perio.do/en/">PeriodO</a></h3>
     <p>
     A community-curated gazetteer of period definitions from archaeology, art history, and related disciplines. PeriodO assigns stable identifiers to scholarly period definitions, allowing researchers to reference time periods in a structured, comparable way. PeriodO supports chronological alignment across datasets using different period systems.</p>
   </div>
@@ -85,7 +85,7 @@ The tools and resources listed here represent the core components used across ma
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-    <h3>Pleiades</h3>
+    <h3><a href="https://pleiades.stoa.org/home">Pleiades</a></h3>
     <p>
     A comprehensive gazetteer of ancient places, widely used across Pelagios-related projects. Pleiades provides stable identifiers for places in the Greek, Roman, and ancient Mediterranean worlds.
     </p>
@@ -97,7 +97,7 @@ The tools and resources listed here represent the core components used across ma
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-    <h3>Trismegistos</h3>
+    <h3><a href="https://www.trismegistos.org/">Trismegistos</a>/h3>
     <p>
     A set of reference databases for people, places, and texts in the ancient world. Often used to enrich or cross-reference linked data projects involving documentary sources.</p>
   </div>
@@ -109,7 +109,7 @@ The tools and resources listed here represent the core components used across ma
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-    <h3>World Historical Gazetteer (WHG)</h3>
+    <h3><a href="https://whgazetteer.org/">World Historical Gazetteer (WHG)</a></h3>
     <p>
     A growing index of historical place data contributed by projects around the world. WHG aggregates and reconciles place names, helping researchers link their own data to shared geographic identifiers. The WHG is useful for mapping historical datasets or aligning places across projects.
     </p>
