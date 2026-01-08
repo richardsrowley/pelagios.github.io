@@ -14,12 +14,13 @@ The tools and resources listed here represent the core components used across ma
 
 <h2>Annotation and Data Enrichment</h2>
 
-<h3>Recogito Studio</h3>
+
 <div class="imgtxt">
   <div class="imgtxt-img">
-    <img src="{{ '/assets/images/img1.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
+    <img src="{{ '/assets/images/img2.png' | relative_url }}" alt="Decorative screenshot of a Recogito Studio">
   </div>
   <div class="imgtxt-txt">
+    <h3>Recogito Studio</h3>
     <p>A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse. Recogito Studio is used in classroom projects, digital editions, and archival annotation workflows.</p>
   </div>
 </div>
