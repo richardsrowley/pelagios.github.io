@@ -97,7 +97,7 @@ The tools and resources listed here represent the core components used across ma
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-    <h3><a href="https://www.trismegistos.org/">Trismegistos</a>/h3>
+    <h3><a href="https://www.trismegistos.org/">Trismegistos</a></h3>
     <p>
     A set of reference databases for people, places, and texts in the ancient world. Often used to enrich or cross-reference linked data projects involving documentary sources.</p>
   </div>
