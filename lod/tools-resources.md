@@ -15,10 +15,14 @@ The tools and resources listed here represent the core components used across ma
 <h2>Annotation and Data Enrichment</h2>
 
 <h3>Recogito Studio</h3>
-<h4>Enhance classroom projects, digital editions, and archival annotation workflows</h4>
-<p>
-A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse.
-</p>
+<div class="imgtxt">
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/Pelagios-meetup-screenshot-3.jpg' | relative_url }}" alt="Screenshot of a Pelagios call">
+  </div>
+  <div class="imgtxt-text">
+    <p>A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse. Recogito Studio is used in classroom projects, digital editions, and archival annotation workflows.</p>
+  </div>
+</div>
 
 <h3>Annotorious</h3>
 <p>
@@ -32,40 +36,36 @@ Annotorious is useful for integrating annotation into custom websites or researc
 
 <h3>Peripleo</h3>
 <p>
-A JavaScript library for exploring linked data visually. Peripleo can map spatial footprints of collection data, show relationships between entities, or surface patterns within large datasets.
-<br>
-Peripleo is often used to create browsable interfaces for heritage collections or research corpora.
+A JavaScript library for exploring linked data visually. Peripleo can map spatial footprints of collection data, show relationships between entities, or surface patterns within large datasets. Peripleo is often used to create browsable interfaces for heritage collections or research corpora.
 </p>
 
 
 <h2>Gazetteers and Period Resources</h2>
 
-<h3>World Historical Gazetteer (WHG)</h3>
-<p>
-A growing index of historical place data contributed by projects around the world. WHG aggregates and reconciles place names, helping researchers link their own data to shared geographic identifiers.
-<br>
-The WHG is useful for mapping historical datasets or aligning places across projects.
-</p>
+<h3>Heritage Browser</h3>
+<p>Heritage Browser is map-based discovery interface for exploring large cultural heritage collections. Built with MapLibre and a custom backend, it enables smooth, immediate navigation through hundreds of thousands of geo-located objects.</p>
+
+<h3>IMMARKUS</h3>
+<p>IMMARKUS is a browser-based, open source environment for semantic image annotation, designed for researchers, digital humanists, and cultural heritage professionals. It offers a multi-image annotation workbench with AI-assisted drawing tools for faster region selection, a lightweight ontology builder, and an interactive, searchable knowledge graph.</p>
 
 <h3>PeriodO</h3>
 <p>
-A community-curated gazetteer of period definitions from archaeology, art history, and related disciplines. PeriodO assigns stable identifiers to scholarly period definitions, allowing researchers to reference time periods in a structured, comparable way.
-<br>
-PeriodO supports chronological alignment across datasets using different period systems.
+A community-curated gazetteer of period definitions from archaeology, art history, and related disciplines. PeriodO assigns stable identifiers to scholarly period definitions, allowing researchers to reference time periods in a structured, comparable way. PeriodO supports chronological alignment across datasets using different period systems.
 </p>
 
 <h3>Pleiades</h3>
 <p>
-A comprehensive gazetteer of ancient places, widely used across Pelagios-related projects.
-<br>
-&rightarrow; Provides stable identifiers for places in the Greek, Roman, and ancient Mediterranean worlds.
+A comprehensive gazetteer of ancient places, widely used across Pelagios-related projects. Pleiades provides stable identifiers for places in the Greek, Roman, and ancient Mediterranean worlds.
 </p>
 
 <h3>Trismegistos</h3>
 <p>
-A set of reference databases for people, places, and texts in the ancient world.
-<br>
-&rightarrow; Often used to enrich or cross-reference linked data projects involving documentary sources.
+A set of reference databases for people, places, and texts in the ancient world. Often used to enrich or cross-reference linked data projects involving documentary sources.
+</p>
+
+<h3>World Historical Gazetteer (WHG)</h3>
+<p>
+A growing index of historical place data contributed by projects around the world. WHG aggregates and reconciles place names, helping researchers link their own data to shared geographic identifiers. The WHG is useful for mapping historical datasets or aligning places across projects.
 </p>
 
 
