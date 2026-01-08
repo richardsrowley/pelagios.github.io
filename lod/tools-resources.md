@@ -19,7 +19,7 @@ The tools and resources listed here represent the core components used across ma
   <div class="imgtxt-img">
     <img src="{{ '/assets/images/Pelagios-meetup-screenshot-3.jpg' | relative_url }}" alt="Screenshot of a Pelagios call">
   </div>
-  <div class="imgtxt-text">
+  <div class="imgtxt-txt">
     <p>A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse. Recogito Studio is used in classroom projects, digital editions, and archival annotation workflows.</p>
   </div>
 </div>
