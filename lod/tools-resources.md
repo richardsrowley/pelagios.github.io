@@ -15,17 +15,16 @@ The tools and resources listed here represent the core components used across ma
 <h2>Annotation and Data Enrichment</h2>
 
 <h3>Recogito Studio</h3>
+<h4>Enhance classroom projects, digital editions, and archival annotation workflows</h4>
 <p>
-A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse. 
-<br>
-&rightarrow; Used in classroom projects, digital editions, and archival annotation workflows.
+A collaborative platform for annotating texts, images, and PDFs. Recogito Studio links your annotations to shared vocabularies and gazetteers, making place references, people, and other entities easier to analyse and reuse.
 </p>
 
 <h3>Annotorious</h3>
 <p>
 A lightweight open-source image annotation library that powers annotation inside many Pelagios projects and external tools. 
 <br>
-&rightarrow; Useful for integrating annotation into custom websites or research interfaces.
+Annotorious is useful for integrating annotation into custom websites or research interfaces.
 </p>
 
 
@@ -35,7 +34,7 @@ A lightweight open-source image annotation library that powers annotation inside
 <p>
 A JavaScript library for exploring linked data visually. Peripleo can map spatial footprints of collection data, show relationships between entities, or surface patterns within large datasets.
 <br>
-&rightarrow; Often used to create browsable interfaces for heritage collections or research corpora.
+Peripleo is often used to create browsable interfaces for heritage collections or research corpora.
 </p>
 
 
@@ -45,14 +44,14 @@ A JavaScript library for exploring linked data visually. Peripleo can map spatia
 <p>
 A growing index of historical place data contributed by projects around the world. WHG aggregates and reconciles place names, helping researchers link their own data to shared geographic identifiers.
 <br>
-&rightarrow; Useful for mapping historical datasets or aligning places across projects.
+The WHG is useful for mapping historical datasets or aligning places across projects.
 </p>
 
 <h3>PeriodO</h3>
 <p>
 A community-curated gazetteer of period definitions from archaeology, art history, and related disciplines. PeriodO assigns stable identifiers to scholarly period definitions, allowing researchers to reference time periods in a structured, comparable way.
 <br>
-&rightarrow; Supports chronological alignment across datasets using different period systems.
+PeriodO supports chronological alignment across datasets using different period systems.
 </p>
 
 <h3>Pleiades</h3>
@@ -69,27 +68,6 @@ A set of reference databases for people, places, and texts in the ancient world.
 &rightarrow; Often used to enrich or cross-reference linked data projects involving documentary sources.
 </p>
 
-
-<h2>Methods, Standards, and Vocabularies</h2>
-
-<p>
-Pelagios and its partners use a number of lightweight, open approaches for describing linked historical data. These standards enable data to move easily between tools and projects.
-</p>
-
-<h3>Linked Places</h3>
-<p>
-A simple model for linking location-based data — used in gazetteers, annotation tools, and visualisation platforms.
-</p>
-
-<h3>Linked Traces</h3>
-<p>
-A model for describing movement, itineraries, and historical routes, developed through Pelagios-related work.
-</p>
-
-<h3>FAIR and CARE Principles</h3>
-<p>
-Guiding frameworks for making data findable, accessible, interoperable, reusable, and ethically grounded.
-</p>
 
 
 <h2>How these tools work together</h2>

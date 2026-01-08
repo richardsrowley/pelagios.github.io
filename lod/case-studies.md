@@ -20,4 +20,4 @@ permalink: /lod/case-studies
 
 <p><a href="https://britishlibrary.github.io/locating-a-national-collection/">Locating a National Collection</a>, hosted by the British Library, helps cultural heritage organisations to use locations – such as where objects were made and used or the places they depict and describe – to connect diverse collections and to engage researchers and public audiences in new ways. The ability to map the spatial footprint of different collections and enable links to the resources they contain is realised through the open-source mapping software, <a href="https://github.com/britishlibrary/peripleo">Peripleo</a>. A browser-based tool for the mapping of things related to place, Peripleo can be hosted (for free) on Github and embedded in other web sites, wikis, and blogs using iFrames.</p>
 
-<iframe src="https://britishlibrary.github.io/peripleo-lanc/BL/#/7.08/-1.6498/52.4824/mode=heatmap" width="100%" height="100%"></iframe>
+<iframe src="https://britishlibrary.github.io/peripleo-lanc/BL/#/7.08/-1.6498/52.4824/mode=heatmap" width="100%" height="600"></iframe>
