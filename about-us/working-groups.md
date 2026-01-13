@@ -41,7 +41,7 @@ permalink: /about-us/working-groups
         <p>Works towards consensus and standards for common representation of historical people in structured Linked Open Data. <a href="mailto:people@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/Activity_people.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
@@ -52,7 +52,7 @@ permalink: /about-us/working-groups
         <p>Finding consensus on the representation of historical time in structured data. <a href="mailto:time@pelagios.org">Email us</a>.</p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/Activity_time.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
@@ -63,7 +63,7 @@ permalink: /about-us/working-groups
         <p>The use of semantic annotation to link and explore historical place information. <a href="mailto:annotation@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/Activity_annotation.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
@@ -74,7 +74,7 @@ permalink: /about-us/working-groups
         <p>Establishes services for registering and discovering linked data collections for places. <a href="mailto:registry@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/registry.png' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
@@ -84,7 +84,7 @@ permalink: /about-us/working-groups
     <p>Support developers and end-users in conceptualising and developing methods and tools for visualisation, discovery and analysis. <a href="mailto:visualisation@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/Activity_visualisation.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
