@@ -27,7 +27,7 @@ h2>The Working Groups</h2>
 <div class="imgtxt">
     <div class="imgtxt-txt">
         <h3>Places</h3>
-        <p>Establishes core requirements for global authority files on historic places and their alignment. <a href="mailto:gazetteers@pelagios.org">Email us</a> 
+        <p>Establishes core requirements for global authority files on historic places and their alignment. <a href="mailto:gazetteers@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
         <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Decorative screenshot of the tool">
@@ -46,43 +46,47 @@ h2>The Working Groups</h2>
 </div> 
 
 
-
-<h2>Time</h2>
-<h3>Finding consensus on the representation of historical time in structured data.</h3>
-<p>See our <a href="https://docs.google.com/document/d/1PDQC0MbxBnqyWwvGqtUBopWFEYxNc_kZhmvQl1cnBt0/edit?usp=sharing">Charter</a>.</p>
-<p>Coordinators: <a href="mailto:time@pelagios.org">Ryan Shaw and Adam Rabinowitz</a></p>
-
+<div class="imgtxt">
+    <div class="imgtxt-txt">
+        <h3>Time</h3>
+        <p>Finding consensus on the representation of historical time in structured data. <a href="mailto:time@pelagios.org">Email us</a>.</p>
+    </div>
+    <div class="imgtxt-img">
+        <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Decorative screenshot of the tool">
+    </div>
+</div> 
 
  
+<div class="imgtxt">
+    <div class="imgtxt-txt">
+        <h3>Annotation</h3>
+        <p>The use of semantic annotation to link and explore historical place information. <a href="mailto:annotation@pelagios.org">Email us</a></p>
+    </div>
+    <div class="imgtxt-img">
+        <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Decorative screenshot of the tool">
+    </div>
+</div> 
 
 
-<hr />
+<div class="imgtxt">
+    <div class="imgtxt-txt">
+        <h3>Registry</h3>
+        <p>Establishes services for registering and discovering linked data collections for places. <a href="mailto:registry@pelagios.org">Email us</a></p>
+    </div>
+    <div class="imgtxt-img">
+        <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Decorative screenshot of the tool">
+    </div>
+</div> 
 
-<h2>Annotation</h2>
-<h3>The use of semantic annotation to link and explore historical place information.</h3>
-<p>See our <a href="https://docs.google.com/document/d/1Id6Ml9XKxiyf_VsG98DyeXzlAtLUbKqfhiNRkFDY4PY/edit">Charter</a>.</p>    
-<p>Coordinators: <a href="mailto:annotation@pelagios.org">Anne Chen and Elton Barker</a></p>
-
-<hr />
-
-<h2>Registry</h2>
-<h3>Establishes services for registering and discovering linked data collections for places.</h3>
-<ul>
-        <li>See our <a href="https://docs.google.com/document/d/1f68dVAP3-vXQX9onc7lHCQO4o0KbNne_rg1cRMlsi7A/edit">Charter</a>.</li>
-        <li>Coordinators: <a href="mailto:registry@pelagios.org">Leif Isaksen and Pascal Belouin</a></li>
-</ul>
-
-<hr />
-
-<h2>Visualisation</h2>
-<h3>Support developers and end-users in conceptualising and developing methods and tools for:</h3>
-<ul>
-    <li>visualisation, such as showing the geographic scope of a dataset, or representing a spatial network;</li>
-    <li>discovery, including the search and retrieval of data from across the collective of Partners, using filters that include period, data type, geographic location, and source;</li>
-    <li>analysis, by leveraging the outcome of linked data to stimulate new research questions and provide new insights.</li>
-</ul>
-<p>See our <a href="https://docs.google.com/document/d/1auz-efYqWhhIZiNC05W1mvE3awdhcnu-7qb4VfkOfCc/edit?usp=sharing">Charter</a>.</p>
-<p>Coordinators: <a href="mailto:visualisation@pelagios.org">Gethin Rees and Stephen Gadd</a></p>
+<div class="imgtxt">
+    <div class="imgtxt-txt">
+    <h3>Visualisation</h3>
+    <p>Support developers and end-users in conceptualising and developing methods and tools for visualisation, discovery and analysis. <a href="mailto:visualisation@pelagios.org">Email us</a></p>
+    </div>
+    <div class="imgtxt-img">
+        <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Decorative screenshot of the tool">
+    </div>
+</div> 
 
 
 
