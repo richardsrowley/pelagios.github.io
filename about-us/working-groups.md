@@ -22,12 +22,16 @@ permalink: /about-us/working-groups
 
 <hr />
 
-<h2>Places</h2>
-<h3 class="">Establishes core requirements for global authority files on historic places and their alignment.</h3> 
-<p>See our <a href="https://docs.google.com/document/d/1NyIrVYX6ThMhykyxgV7H_HJud2gwkpPGtj2PZVDcXi8/edit">Charter</a>.</p>
-<p>Coordinators: <a href="mailto:gazetteers@pelagios.org">Tom Gheldof and Valeria Vitale</a></p>
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+    <h2>Places</h3>
+    <p>Establishes core requirements for global authority files on historic places and their alignment. <a href="mailto:gazetteers@pelagios.org">Email us</a> </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Decorative screenshot of the tool">
+  </div>
+</div> 
 
-<hr />
+
 
 <h2>People</h2>
 <h3>Works towards consensus and standards for common representation of historical people in structured Linked Open Data.</h3>

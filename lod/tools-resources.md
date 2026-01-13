@@ -94,7 +94,7 @@ The tools and resources listed here represent the core components used across ma
     <img src="{{ '/assets/images/pleiades.png' | relative_url }}" alt="Decorative screenshot of the tool">
   </div>
 </div> 
-
+ 
 <div class="imgtxt">
   <div class="imgtxt-txt">
     <h3><a href="https://www.trismegistos.org/">Trismegistos</a></h3>
