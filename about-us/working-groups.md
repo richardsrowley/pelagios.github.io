@@ -24,7 +24,7 @@ permalink: /about-us/working-groups
 
 <div class="imgtxt">
   <div class="imgtxt-txt">
-    <h2>Places</h3>
+    <h2>Places</h2>
     <p>Establishes core requirements for global authority files on historic places and their alignment. <a href="mailto:gazetteers@pelagios.org">Email us</a> </div>
   <div class="imgtxt-img">
     <img src="{{ '/assets/images/PeriodO.png' | relative_url }}" alt="Decorative screenshot of the tool">
@@ -32,9 +32,10 @@ permalink: /about-us/working-groups
 </div> 
 
 
-
-<h2>People</h2>
-<h3>Works towards consensus and standards for common representation of historical people in structured Linked Open Data.</h3>
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+    <h2>People</h2>
+    <p>Works towards consensus and standards for common representation of historical people in structured Linked Open Data.</p>
 <p>Rather than replacing existing solutions around shared person data formats, we recommend lightweight, minimal standards for interchange data, compatible with Pelagios registries, APIs and annotation tools. Needs and solutions will arise from consultation with communities of practice and stakeholders, in close collaboration with other PN activities. Results and discussions are disseminated openly throughout via online platforms, forums and repositories.</p>
 <p>For more information, see our <a href="https://docs.google.com/document/d/1xJK2-o1-rrt0kQXjpPsSpJ4CQT_iQzKZBaewCYTGGr8/edit?usp=sharing">Charter</a>, <a href="https://github.com/DigiClass/LOD-People/wiki">Wiki</a>, and our <a href="https://groups.google.com/g/ancient-people">Asynchronous discussion group</a>.</p>
 <p>Coordinators: <a href="mailto:people@pelagios.org">Gabriel Bodard and Jun Ogawa</a></p>
