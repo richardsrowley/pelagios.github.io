@@ -22,7 +22,7 @@ permalink: /about-us/working-groups
 
 <hr />
 
-h2>The Working Groups</h2>
+<h2>The Working Groups</h2>
 
 <div class="imgtxt">
     <div class="imgtxt-txt">
