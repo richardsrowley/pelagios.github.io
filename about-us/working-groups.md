@@ -63,7 +63,7 @@ permalink: /about-us/working-groups
         <p>The use of semantic annotation to link and explore historical place information. <a href="mailto:annotation@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/Activity_annotation.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/Actvity_annotation.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
