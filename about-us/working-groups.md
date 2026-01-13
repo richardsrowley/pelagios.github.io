@@ -14,7 +14,7 @@ permalink: /about-us/working-groups
     <li>public engagement: hearing from experts outside academia, such as from journalism or commerce</li>
 </ul>
 
-<p>Pelagios working groups are based on two dimensions of LOD practice: (i) core entities of Place, People, and Time; and (ii) core processes of Annotation, Registry, and Visualisation. The primary goal of each working group is to work towards consensus and standards for the common representation of historical entities in structured LOD.</p>
+<p>Pelagios working groups are based on two dimensions of LOD practice: (i) core entities of Place, People, and Time; and (ii) core processes of Annotation, Registry, and Visualisation. The primary goal of each working group is to work towards consensus and standards for the common representation of historical entities in structured LOD. </p>
 
 
 
