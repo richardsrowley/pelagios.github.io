@@ -26,4 +26,4 @@ permalink: /about-us/
   <li>Partnership Secretary: Elton Barker</li>
 </ul>
 
-<img src="{{ '/assets/images/governance.jpg' | relative_url }}" alt="Infographic illustrating that partners join Working Groups and their Coordinators meet with Officers in the General Business Meeting">
+<img src="{{ '/assets/images/governance.png' | relative_url }}" alt="Infographic illustrating that partners join Working Groups and their Coordinators meet with Officers in the General Business Meeting">
