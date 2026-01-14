@@ -8,7 +8,7 @@ permalink: /lod/case-studies
 <div class="imgtxt">
   <div class="imgtxt-txt">
         <h2>Community archaeology on a global scale</h2>
-        <p>The <a href="https://duraeuroposarchive.org/">International Dura-Europos Archive</a> (IDEA) digitally re-integrates dispersed collections and discipline-specific knowledge using Linked Open Data. In collaboration with local Syrian communities, IDEA uses <a href="https://www.wikidata.org/wiki/Wikidata:WikiProject_IDEA">a Wikidata WikiProject</a> to build bridges among ‘islands’ of FAIR data and print resources to recontextualize content. Artefacts once belonging to the same place, which form part of collections as far apart as Paris and New Haven, can now be reunited.<p>
+        <p>The <a href="https://duraeuroposarchive.org/">International Dura-Europos Archive</a> (IDEA) digitally re-integrates dispersed collections and discipline-specific knowledge using Linked Open Data. In collaboration with local Syrian communities, IDEA uses <a href="https://www.wikidata.org/wiki/Wikidata:WikiProject_IDEA">a Wikidata WikiProject</a> to build bridges among ‘islands’ of FAIR data and print resources to recontextualize content. Artefacts once belonging to the same place, which form part of collections as far apart as Paris and New Haven, can now be reunited.</p>
     </div>
     <div class="imgtxt-img">
         <img src="{{ '/assets/images/peripleo.png' | relative_url }}" alt="Decorative screenshot of the tool">
