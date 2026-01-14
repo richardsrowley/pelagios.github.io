@@ -28,4 +28,4 @@ permalink: /about-us/
 
 <br />
 
-<img src="{{ '/assets/images/governance.png' | relative_url }}" alt="Infographic illustrating that partners join Working Groups and their Coordinators meet with Officers in the General Business Meeting">
+<img class="full-width" src="{{ '/assets/images/governance.png' | relative_url }}" alt="Infographic illustrating that partners join Working Groups and their Coordinators meet with Officers in the General Business Meeting">
