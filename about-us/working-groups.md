@@ -60,7 +60,7 @@ permalink: /about-us/working-groups
         <p><a href="mailto:time@pelagios.org">Email us</a>.</p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/pealgios-time.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/pealgios-time.png' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
@@ -71,7 +71,7 @@ permalink: /about-us/working-groups
         <p>Anootation WG promotes the use of W3C web annotation for enriching text and image documents according to FAIR data standards develops lightweight standards for linking resources describing historical phenomena explores different typologies for categorising named entities (places, people, time periods) identifies and shares knowledge about different tools for semantic enrichment  establishes pipelines and workflows between different media and tools. <a href="mailto:annotation@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/pelagios-annotation.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/pelagios-annotation.png' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
