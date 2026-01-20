@@ -38,10 +38,17 @@ permalink: /about-us/working-groups
 <div class="imgtxt">
     <div class="imgtxt-txt">
         <h3>People</h3>
-        <p>Works towards consensus and standards for common representation of historical people in structured Linked Open Data. <a href="mailto:people@pelagios.org">Email us</a></p>
+        <ul>
+            <li>works towards consensus and standards for common representation of historical people in structured Linked Open Data</li>
+            <li>surveys practice and collect guidance in the handling of interoperable Linked Open Data relating to historical person datasets</li>
+            <li>develops lightweight, minimal standards for interchange data, compatible with Pelagios registries, APIs and annotation tools</li>
+            <li>consults with communities of practice and stakeholders, in close collaboration with other PN activities.</li>
+            <li>disseminates results and discussions openly throughout via online platforms, forums and repositories</li>
+        </ul>
+        <p><a href="mailto:people@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/Activity_people.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/pel-people.png' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
@@ -95,10 +102,16 @@ permalink: /about-us/working-groups
 <div class="imgtxt">
     <div class="imgtxt-txt">
     <h3>Visualisation</h3>
-    <p>Support developers and end-users in conceptualising and developing methods and tools for visualisation, discovery and analysis. <a href="mailto:visualisation@pelagios.org">Email us</a></p>
+    <ul>
+        <li>develops tools and methods for visualising, discovering and analysing geospatial, humanities and LOD across a range of different periods and geographic regions</li>
+        <li>explores the potential for conceptual or code re-use from the Peripleo demonstrator</li>
+        <li>promotes dialogue within the data visualisation community and in relation to related technological and domain communities</li>
+        <li>advocates for semantic annotation and LOD as means for discovering, utilising and repurposing historical and cultural documents</li>
+    </ul>
+    <p><a href="mailto:visualisation@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/Activity_visualisation.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/visualisation.png' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
