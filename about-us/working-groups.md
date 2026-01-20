@@ -60,7 +60,7 @@ permalink: /about-us/working-groups
         <a href="mailto:time@pelagios.org">Email us</a>.</p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/Activity_time.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/pelagios-time.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
