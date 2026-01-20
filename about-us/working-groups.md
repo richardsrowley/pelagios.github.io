@@ -49,7 +49,15 @@ permalink: /about-us/working-groups
 <div class="imgtxt">
     <div class="imgtxt-txt">
         <h3>Time</h3>
-        <p>Finding consensus on the representation of historical time in structured data. <a href="mailto:time@pelagios.org">Email us</a>.</p>
+        <p> The Time working group facilitates discussion of:</p>
+        <ul>
+            <li>temporal reference systems for historical time, including non-Gregorian calendars, chronometric scales, and ordinal systems such as named periods</li>
+            <li>how to represent vague, uncertain or incomplete temporal references</li>
+            <li>how to model sequences of past events as concepts relating places, temporal extents, actors and artefacts</li>
+            <li>reasoning about possible temporal orderings of events</li>
+            <li>archaeological situations as well as textual evidence.</li>
+        </ul>
+        <a href="mailto:time@pelagios.org">Email us</a>.</p>
     </div>
     <div class="imgtxt-img">
         <img src="{{ '/assets/images/Activity_time.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
