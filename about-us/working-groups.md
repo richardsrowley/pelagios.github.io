@@ -24,6 +24,18 @@ permalink: /about-us/working-groups
 
 
 
+ 
+<div class="imgtxt">
+    <div class="imgtxt-txt">
+        <h2>Annotation</h2>
+        <p>The Annotation Working Group promotes the use of W3C web annotation for enriching resources (both text and image) describing historical phenomena and linking them according to FAIR data standards. We focus on sharing knowledge about different tools for semantic enrichment and establishing pipelines between different media and tools. We are also interested in documenting different typologies for categorising named entities (places, people, time periods). <a href="mailto:annotation@pelagios.org">Email us</a></p>
+    </div>
+    <div class="imgtxt-img">
+        <img src="{{ '/assets/images/pelagios-annotation.png' | relative_url }}" alt="Logo of the working Group (decorative)">
+    </div>
+</div> 
+
+
 
 <div class="imgtxt">
     <div class="imgtxt-txt">
@@ -50,34 +62,23 @@ permalink: /about-us/working-groups
 
 <div class="imgtxt">
     <div class="imgtxt-txt">
+        <h2>Registry</h2>
+        <p> The Registry Working Group catalogues and documents existing LOD knowledge graphs (KGs) for places and other entities. By contributing to the creation of an open catalogue of KGs, we aim to enhance the visibility and discoverability of existing KGs. We also gather or create documentation about the catalogued KGs in the format of pairs of (natural language) questions and their corresponding SPARQL queries. <a href="mailto:registry@pelagios.org">Email us</a></p>
+    </div>
+    <div class="imgtxt-img">
+        <img src="{{ '/assets/images/registry.png' | relative_url }}" alt="Logo of the working Group (decorative)">
+    </div>
+</div> 
+
+
+<div class="imgtxt">
+    <div class="imgtxt-txt">
         <h2>Time</h2>
         <p>The Time Working Group facilitates discussion of temporal reference systems for historical time, including non-Gregorian calendars, chronometric scales, and ordinal systems such as named periods. By exploring the modelling of sequences of past, rather than historical, events, we encompass both archaeological situations and textual evidence. We are also interested in vague, uncertain or incomplete temporal references, as well as reasoning about possible temporal orderings of events.</p>
         <p><a href="mailto:time@pelagios.org">Email us</a>.</p>
     </div>
     <div class="imgtxt-img">
         <img src="{{ '/assets/images/pealgios-time.png' | relative_url }}" alt="Logo of the working Group (decorative)">
-    </div>
-</div> 
-
- 
-<div class="imgtxt">
-    <div class="imgtxt-txt">
-        <h2>Annotation</h2>
-        <p>The Annotation Working Group promotes the use of W3C web annotation for enriching resources (both text and image) describing historical phenomena and linking them according to FAIR data standards. We focus on sharing knowledge about different tools for semantic enrichment and establishing pipelines between different media and tools. We are also interested in documenting different typologies for categorising named entities (places, people, time periods). <a href="mailto:annotation@pelagios.org">Email us</a></p>
-    </div>
-    <div class="imgtxt-img">
-        <img src="{{ '/assets/images/pelagios-annotation.png' | relative_url }}" alt="Logo of the working Group (decorative)">
-    </div>
-</div> 
-
-
-<div class="imgtxt">
-    <div class="imgtxt-txt">
-        <h2>Registry</h2>
-        <p> The Registry Working Group catalogues and documents existing LOD knowledge graphs (KGs) for places and other entities. By contributing to the creation of an open catalogue of KGs, we aim to enhance the visibility and discoverability of existing KGs. We also gather or create documentation about the catalogued KGs in the format of pairs of (natural language) questions and their corresponding SPARQL queries. <a href="mailto:registry@pelagios.org">Email us</a></p>
-    </div>
-    <div class="imgtxt-img">
-        <img src="{{ '/assets/images/registry.png' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
