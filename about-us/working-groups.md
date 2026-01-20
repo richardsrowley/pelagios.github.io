@@ -83,7 +83,7 @@ permalink: /about-us/working-groups
             <li>Catalogues and documents existing LOD knowledge graphs (KGs) for places and other entities;</li>
             <li>Contributes to the creation of an open catalogue of KGs, which will enhance the visibility and discoverability of existing KGs;</li>
             <li>Gather or creates documentation about the catalogued KGs in the format of pairs of (natural language) questions and their corresponding SPARQL queries;</li>
-            <li>Contributes to the creation of an open resource with high pedagogical value (e.g., when teaching SPARQL and other semantic web-related technologies)</li>. 
+            <li>Contributes to the creation of an open resource with high pedagogical value (e.g., when teaching SPARQL and other semantic web-related technologies).</li> 
         </ul>
         <p><a href="mailto:registry@pelagios.org">Email us</a></p>
     </div>
