@@ -44,7 +44,18 @@ The tools and resources listed here represent the core components used across ma
   </div>
 </div>
 
- 
+
+<h2>Research data management</h2>
+
+<div class="imgtxt">
+  <div class="imgtxt-txt">
+    <h3><a href="https://nodegoat.net/">nodegoat</a></h3>
+    <p>nodegoat is a web-based research environment for the humanities. It allows scholars to store vague dates, historical regions, and is able to create diachronic geographical and social network visualisations. It is particularly useful for managing historical data and analysing changes over time.</p>
+ </div>
+  <div class="imgtxt-img">
+    <img src="{{ '/assets/images/nodegoat.png' | relative_url }}" alt="Decorative screenshot of the tool">
+  </div>
+</div> 
 
 
 <h2>Exploration and Visualisation</h2>

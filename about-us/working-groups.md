@@ -57,10 +57,10 @@ permalink: /about-us/working-groups
             <li>reasoning about possible temporal orderings of events</li>
             <li>archaeological situations as well as textual evidence.</li>
         </ul>
-        <a href="mailto:time@pelagios.org">Email us</a>.</p>
+        <p><a href="mailto:time@pelagios.org">Email us</a>.</p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/pelagios-time.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/pealgios-time.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
@@ -68,10 +68,10 @@ permalink: /about-us/working-groups
 <div class="imgtxt">
     <div class="imgtxt-txt">
         <h3>Annotation</h3>
-        <p>The use of semantic annotation to link and explore historical place information. <a href="mailto:annotation@pelagios.org">Email us</a></p>
+        <p>Anootation WG promotes the use of W3C web annotation for enriching text and image documents according to FAIR data standards develops lightweight standards for linking resources describing historical phenomena explores different typologies for categorising named entities (places, people, time periods) identifies and shares knowledge about different tools for semantic enrichment  establishes pipelines and workflows between different media and tools. <a href="mailto:annotation@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/Actvity_annotation.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/pelagios-annotation.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
@@ -79,7 +79,13 @@ permalink: /about-us/working-groups
 <div class="imgtxt">
     <div class="imgtxt-txt">
         <h3>Registry</h3>
-        <p>Establishes services for registering and discovering linked data collections for places. <a href="mailto:registry@pelagios.org">Email us</a></p>
+        <ul>
+            <li>Catalogues and documents existing LOD knowledge graphs (KGs) for places and other entities;</li>
+            <li>Contributes to the creation of an open catalogue of KGs, which will enhance the visibility and discoverability of existing KGs;</li>
+            <li>Gather or creates documentation about the catalogued KGs in the format of pairs of (natural language) questions and their corresponding SPARQL queries;</li>
+            <li>Contributes to the creation of an open resource with high pedagogical value (e.g., when teaching SPARQL and other semantic web-related technologies)</li>. 
+        </ul>
+        <p><a href="mailto:registry@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
         <img src="{{ '/assets/images/registry.png' | relative_url }}" alt="Logo of the working Group (decorative)">
