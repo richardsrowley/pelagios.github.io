@@ -43,7 +43,7 @@ permalink: /about-us/working-groups
         <p>The Place Working Group brings together scholars and practitioners working on the conceptual and technical challenges of representing place in digital humanities research. We focus on aligning and interpreting place references across heterogeneous historical datasets while treating place as relational, temporal, and contested. The group supports shared methods and conversations that move beyond fixed coordinates toward historically grounded place-based knowledge. <a href="mailto:gazetteers@pelagios.org">Email us</a></p>
     </div>
     <div class="imgtxt-img">
-        <img src="{{ '/assets/images/place.jpg' | relative_url }}" alt="Logo of the working Group (decorative)">
+        <img src="{{ '/assets/images/places.png' | relative_url }}" alt="Logo of the working Group (decorative)">
     </div>
 </div> 
 
